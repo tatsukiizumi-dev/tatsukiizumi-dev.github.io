@@ -16,7 +16,7 @@
 
 Excel の表のようなチェックリストを、いくつでも。チェック・カテゴリ・項目の 3 列だけのシンプルな iPhone / iPad 向けメモアプリです。データは端末内にのみ保存され、アカウント登録は不要です。
 
-- App Storeで見る（公開準備中）
+- [App Storeで見る](https://apps.apple.com/jp/app/id6808516647)
 - [サポート](https://pacific-moat-960.notion.site/3d19bbbfb961807e806df72662c15a99)
 - [プライバシーポリシー](https://pacific-moat-960.notion.site/3d19bbbfb961803c98fdfef98df29488)
 
