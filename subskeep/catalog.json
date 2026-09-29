@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29",
+ "updatedAt": "2026-09-30",
  "services": [
   {
    "id": "amazon-prime",
@@ -271,7 +271,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "dazn",
@@ -490,7 +490,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "telasa",
@@ -591,7 +591,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "j-sports-ondemand",
@@ -862,7 +862,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "anime-hodai",
@@ -896,13 +896,13 @@
    "billingType": "fixed",
    "plans": [
     {
-     "name": "Turbo",
-     "amount": 11.99,
+     "name": "Turbo（Web 購入）",
+     "amount": 1499,
      "cycle": "monthly",
-     "currency": "USD"
+     "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "spotify",
@@ -971,15 +971,9 @@
      "amount": 1980,
      "cycle": "monthly",
      "currency": "JPY"
-    },
-    {
-     "name": "個人（年額）",
-     "amount": 11800,
-     "cycle": "yearly",
-     "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "amazon-music-unlimited",
@@ -1988,7 +1982,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "asahi-digital",
@@ -2170,19 +2164,19 @@
    "billingType": "fixed",
    "plans": [
     {
-     "name": "朝刊のみ（宅配）",
-     "amount": 4100,
+     "name": "統合版（朝刊のみの地域）",
+     "amount": 3800,
      "cycle": "monthly",
      "currency": "JPY"
     },
     {
-     "name": "朝夕刊セット（宅配）",
+     "name": "朝夕刊セット",
      "amount": 4800,
      "cycle": "monthly",
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "mainichi-digital",
@@ -2378,7 +2372,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "bookwalker-yomihodai",
@@ -2555,7 +2549,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "chatgpt",
@@ -2610,30 +2604,30 @@
    "plans": [
     {
      "name": "Pro",
-     "amount": 20,
+     "amount": 22,
      "cycle": "monthly",
      "currency": "USD"
     },
     {
      "name": "Max 5x",
-     "amount": 100,
+     "amount": 110,
      "cycle": "monthly",
      "currency": "USD"
     },
     {
      "name": "Max 20x",
-     "amount": 200,
+     "amount": 220,
      "cycle": "monthly",
      "currency": "USD"
     },
     {
      "name": "Pro（年払い）",
-     "amount": 200,
+     "amount": 220,
      "cycle": "yearly",
      "currency": "USD"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "google-ai",
@@ -2783,24 +2777,24 @@
    "plans": [
     {
      "name": "Pro",
-     "amount": 10,
+     "amount": 11,
      "cycle": "monthly",
      "currency": "USD"
     },
     {
      "name": "Pro+",
-     "amount": 39,
+     "amount": 42.9,
      "cycle": "monthly",
      "currency": "USD"
     },
     {
      "name": "Max",
-     "amount": 100,
+     "amount": 110,
      "cycle": "monthly",
      "currency": "USD"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "cursor",
@@ -3143,42 +3137,42 @@
    "plans": [
     {
      "name": "Plus",
-     "amount": 1500,
+     "amount": 1650,
      "cycle": "monthly",
      "currency": "JPY"
     },
     {
      "name": "Standard（1 ユーザー）",
-     "amount": 1800,
+     "amount": 1980,
      "cycle": "monthly",
      "currency": "JPY"
     },
     {
      "name": "Professional",
-     "amount": 2400,
+     "amount": 2640,
      "cycle": "monthly",
      "currency": "JPY"
     },
     {
      "name": "Plus（年払い）",
-     "amount": 14400,
+     "amount": 15840,
      "cycle": "yearly",
      "currency": "JPY"
     },
     {
      "name": "Standard（1 ユーザー・年払い）",
-     "amount": 18000,
+     "amount": 19800,
      "cycle": "yearly",
      "currency": "JPY"
     },
     {
      "name": "Professional（年払い）",
-     "amount": 24000,
+     "amount": 26400,
      "cycle": "yearly",
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "onedrive",
@@ -3655,31 +3649,19 @@
    "billingType": "fixed",
    "plans": [
     {
-     "name": "Individual",
-     "amount": 4.99,
-     "cycle": "monthly",
-     "currency": "USD"
-    },
-    {
-     "name": "Families",
-     "amount": 7.99,
-     "cycle": "monthly",
-     "currency": "USD"
-    },
-    {
      "name": "Individual（年払い）",
-     "amount": 47.88,
+     "amount": 52.67,
      "cycle": "yearly",
      "currency": "USD"
     },
     {
      "name": "Families（年払い）",
-     "amount": 71.88,
+     "amount": 79.07,
      "cycle": "yearly",
      "currency": "USD"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "bitwarden",
@@ -5083,13 +5065,25 @@
    "billingType": "fixed",
    "plans": [
     {
-     "name": "戸建て 1ギガコース（即割）",
-     "amount": 5448,
+     "name": "戸建て 1ギガ（3 年目以降）",
+     "amount": 5500,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "戸建て 1ギガ（2 年目）",
+     "amount": 5555,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "戸建て 1ギガ（1 年目）",
+     "amount": 5610,
      "cycle": "monthly",
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "commufa-hikari",
@@ -6235,7 +6229,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "studysapuri-junior",
@@ -6687,7 +6681,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "oura-membership",
@@ -6843,13 +6837,13 @@
    "billingType": "fixed",
    "plans": [
     {
-     "name": "レギュラー（店舗により異なる・最安水準）",
-     "amount": 9460,
+     "name": "レギュラー（川口店の例）",
+     "amount": 13090,
      "cycle": "monthly",
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "konami-sports-club",
@@ -7377,19 +7371,13 @@
      "currency": "JPY"
     },
     {
-     "name": "朝刊のみ（セット地域）",
-     "amount": 4100,
-     "cycle": "monthly",
-     "currency": "JPY"
-    },
-    {
      "name": "朝夕刊セット",
      "amount": 4800,
      "cycle": "monthly",
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "asahi-shimbun",
@@ -7416,7 +7404,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "life-insurance",
@@ -7663,7 +7651,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-06"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "lyp-premium",
@@ -7697,7 +7685,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "costco",
@@ -7789,30 +7777,30 @@
    "plans": [
     {
      "name": "プロ（1 ユーザー）",
-     "amount": 1050,
+     "amount": 1155,
      "cycle": "monthly",
      "currency": "JPY"
     },
     {
      "name": "ビジネスプラス（1 ユーザー）",
-     "amount": 2160,
+     "amount": 2376,
      "cycle": "monthly",
      "currency": "JPY"
     },
     {
      "name": "プロ（1 ユーザー・年払い）",
-     "amount": 11100,
+     "amount": 12210,
      "cycle": "yearly",
      "currency": "JPY"
     },
     {
      "name": "ビジネスプラス（1 ユーザー・年払い）",
-     "amount": 23040,
+     "amount": 25344,
      "cycle": "yearly",
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "google-workspace",
@@ -8014,25 +8002,13 @@
    "billingType": "fixed",
    "plans": [
     {
-     "name": "Pro",
-     "amount": 4,
+     "name": "Team（1 ユーザー・最初の 12 か月）",
+     "amount": 4.4,
      "cycle": "monthly",
-     "currency": "USD"
-    },
-    {
-     "name": "Team（1 ユーザー）",
-     "amount": 4,
-     "cycle": "monthly",
-     "currency": "USD"
-    },
-    {
-     "name": "Pro（年払い）",
-     "amount": 48,
-     "cycle": "yearly",
      "currency": "USD"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-09-29"
   },
   {
    "id": "xserver",
