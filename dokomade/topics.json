@@ -1,0 +1,80 @@
+{
+  "format": "dokomade-topics",
+  "version": 20261011,
+  "topics": [
+    {
+      "id": "tsugimanga-2026-comics",
+      "date": "2026-09-16",
+      "title": "次にくるマンガ大賞 2026 コミックス部門",
+      "lead": "読者の投票で選ぶ「次にくる」漫画の賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "さむわんへるつ",
+          "author": "ヤマノエイ",
+          "note": "1位"
+        },
+        {
+          "kind": "manga",
+          "title": "ふたりバス",
+          "author": "豊林サカネ",
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "レジスタ！",
+          "author": "藤丸",
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "パラショッパーズ",
+          "author": "福地翼",
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "シルバーマウンテン",
+          "author": "藤田和日郎",
+          "note": "5位"
+        }
+      ]
+    },
+    {
+      "id": "tsugimanga-2026-web",
+      "date": "2026-09-16",
+      "title": "次にくるマンガ大賞 2026 Webマンガ部門",
+      "lead": "読者の投票で選ぶ「次にくる」漫画の賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "おかえり水平線",
+          "author": "渡部大羊",
+          "note": "1位"
+        },
+        {
+          "kind": "manga",
+          "title": "ヒトナー",
+          "author": "屋宜知宏",
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "灰宮先輩は怖くてかわいい",
+          "author": "神山すむ",
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "大人大戦",
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "都市伝説先輩",
+          "note": "5位"
+        }
+      ]
+    }
+  ]
+}
