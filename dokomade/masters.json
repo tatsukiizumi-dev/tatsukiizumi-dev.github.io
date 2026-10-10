@@ -1,6 +1,6 @@
 {
   "format": "dokomade-masters",
-  "version": 20261006,
+  "version": 20261010,
   "services": {
     "ebook": [
       "Kindle",
@@ -8,11 +8,14 @@
       "ebookjapan",
       "コミックシーモア",
       "BOOK☆WALKER",
-      "BookLive!",
+      "ブックライブ",
       "DMMブックス",
       "まんが王国",
       "めちゃコミック",
       "Renta!",
+      "honto",
+      "Reader Store",
+      "マンガBANGブックス",
       "LINEマンガ",
       "ピッコマ",
       "U-NEXT",
@@ -24,7 +27,7 @@
       "マガポケ",
       "サンデーうぇぶり",
       "マンガワン",
-      "ヤンジャン！",
+      "ヤンジャン＋",
       "ゼブラック",
       "マンガMee",
       "コミックDAYS",
@@ -32,8 +35,12 @@
       "マンガUP！",
       "ガンガンONLINE",
       "マンガPark",
-      "マンガクロス",
+      "チャンピオンクロス",
       "COMIC FUZ",
+      "コミックガルド＋",
+      "くじらバンチ",
+      "パルシィ",
+      "Amebaマンガ",
       "pixivコミック",
       "comico",
       "LINEマンガ",
@@ -47,7 +54,7 @@
       "楽天Kobo",
       "BOOK☆WALKER",
       "DMMブックス",
-      "BookLive!",
+      "ブックライブ",
       "Renta!",
       "U-NEXT",
       "Apple Books",
@@ -62,14 +69,23 @@
       "サンデーうぇぶり",
       "カドコミ",
       "ガンガンONLINE",
-      "マンガクロス",
+      "チャンピオンクロス",
       "COMIC FUZ",
       "ニコニコ漫画",
       "pixivコミック",
       "webアクション",
       "くらげバンチ",
       "ヤングアニマルWeb",
-      "コミプレ",
+      "HERO'S Web",
+      "ヤンジャン＋",
+      "ヤンチャンWeb",
+      "マンガPark",
+      "LINEマンガ",
+      "ピッコマ",
+      "めちゃコミック",
+      "コミックシーモア",
+      "まんが王国",
+      "comico",
       "X",
       "pixiv"
     ],
@@ -94,7 +110,7 @@
       "DMM TV",
       "FOD",
       "Apple TV",
-      "NHKプラス",
+      "NHK ONE",
       "NHKオンデマンド",
       "WOWOWオンデマンド",
       "TELASA",
@@ -102,6 +118,7 @@
       "バンダイチャンネル",
       "J:COM STREAM",
       "スカパー！番組配信",
+      "DAZN",
       "Rakuten TV",
       "YouTube",
       "ニコニコ"
@@ -123,11 +140,400 @@
       "BSフジ",
       "BS11",
       "BS10",
-      "BS松竹東急",
+      "J:COM BS",
       "WOWOW",
       "AT-X"
     ]
   },
-  "magazines": [],
+  "magazines": [
+    {
+      "name": "週刊少年ジャンプ",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんしょうねんじゃんぷ",
+      "note": "年末年始・GW・お盆などに合併号（年4〜5回）。増刊あり"
+    },
+    {
+      "name": "ハルメク",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "はるめく",
+      "note": "定期購読専門誌"
+    },
+    {
+      "name": "週刊文春",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんぶんしゅん",
+      "note": "日付号（例：10月15日号）。年末年始・GW・お盆などに合併号"
+    },
+    {
+      "name": "週刊少年マガジン",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんしょうねんまがじん",
+      "note": "年末年始・GW・お盆に合併号。増刊あり"
+    },
+    {
+      "name": "女性セブン",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "じょせいせぶん",
+      "note": "日付号。年末年始・GW・お盆などに合併号"
+    },
+    {
+      "name": "週刊現代",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "しゅうかんげんだい",
+      "note": "2025年から隔週刊。日付号（例：10/12号）"
+    },
+    {
+      "name": "週刊ヤングジャンプ",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんやんぐじゃんぷ",
+      "note": "年末年始・GW・お盆に合併号。増刊あり"
+    },
+    {
+      "name": "月刊コロコロコミック",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "げっかんころころこみっく",
+      "note": "増刊あり"
+    },
+    {
+      "name": "週刊新潮",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんしんちょう",
+      "note": "日付号。年末年始・GW・お盆に合併号"
+    },
+    {
+      "name": "週刊ポスト",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんぽすと",
+      "note": "日付号。合併号が多い（2026年はほぼ毎月）。増刊あり"
+    },
+    {
+      "name": "女性自身",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "じょせいじしん",
+      "note": "日付号。合併号が多い（例：10月20・27日合併号）"
+    },
+    {
+      "name": "ビッグコミックオリジナル",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "びっぐこみっくおりじなる",
+      "note": "月2回刊。年末年始は合併号。増刊あり"
+    },
+    {
+      "name": "文藝春秋",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "ぶんげいしゅんじゅう",
+      "note": "臨時増刊あり"
+    },
+    {
+      "name": "オレンジページ",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "おれんじぺーじ",
+      "note": "月2回刊。日付号（例：2026年9月17日号）。付録付きの増刊あり"
+    },
+    {
+      "name": "pumpkin",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "ぱんぷきん",
+      "note": "定期購読が中心"
+    },
+    {
+      "name": "ヤングマガジン",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "やんぐまがじん",
+      "note": "年末年始・GW・お盆に合併号。増刊あり"
+    },
+    {
+      "name": "コミック乱",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "こみっくらん",
+      "note": "増刊あり"
+    },
+    {
+      "name": "週刊少年サンデー",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんしょうねんさんでー",
+      "note": "年末年始・GW・お盆に合併号。増刊（サンデーS 等）あり"
+    },
+    {
+      "name": "FRIDAY",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "ふらいでー",
+      "note": "日付号。合併号が多い（例：10月23日・30日号）。増刊あり"
+    },
+    {
+      "name": "VOCE",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "ゔぉーちぇ",
+      "note": "付録違いの特別版・増刊あり"
+    },
+    {
+      "name": "ビッグコミック",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "びっぐこみっく",
+      "note": "月2回刊。年末年始は合併号"
+    },
+    {
+      "name": "週刊女性",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんじょせい",
+      "note": "日付号。年末年始・GW・お盆などに合併号"
+    },
+    {
+      "name": "美的",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "びてき",
+      "note": "付録違いの増刊・特別版あり"
+    },
+    {
+      "name": "月刊少年マガジン",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "げっかんしょうねんまがじん",
+      "note": "増刊あり"
+    },
+    {
+      "name": "りぼん",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "りぼん",
+      "note": "増刊あり"
+    },
+    {
+      "name": "MAQUIA",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "まきあ",
+      "note": "付録違いの増刊・特別版あり"
+    },
+    {
+      "name": "ジャンプSQ.",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "じゃんぷすくえあ",
+      "note": "増刊（ジャンプSQ.RISE 等）あり"
+    },
+    {
+      "name": "コミック乱ツインズ",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "こみっくらんついんず"
+    },
+    {
+      "name": "グランドジャンプ",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "ぐらんどじゃんぷ",
+      "note": "月2回刊。増刊（グランドジャンプむちゃ 等）あり"
+    },
+    {
+      "name": "non・no",
+      "style": "yearMonth",
+      "interval": "irregular",
+      "reading": "のんの",
+      "note": "年10回刊（12月号・6月号などは出ない）。付録違いの増刊あり"
+    },
+    {
+      "name": "PRESIDENT",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "ぷれじでんと",
+      "note": "月2回刊。日付号（例：2026年10/30号）"
+    },
+    {
+      "name": "日経ビジネス",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "にっけいびじねす",
+      "note": "「No.2358」のような通し番号と日付号を併記。年末年始・GW・お盆に合併号"
+    },
+    {
+      "name": "週刊東洋経済",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんとうようけいざい",
+      "note": "日付号。年末年始・GW・お盆などに合併号（例：10/10・17合併号）。臨時増刊あり"
+    },
+    {
+      "name": "週刊ダイヤモンド",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんだいやもんど",
+      "note": "日付号。年末年始・GW・お盆などに合併号（例：4/18・25合併号）"
+    },
+    {
+      "name": "ESSE",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "えっせ",
+      "note": "付録違いの増刊あり"
+    },
+    {
+      "name": "レタスクラブ",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "れたすくらぶ",
+      "note": "増刊号あり（例：2026年3月増刊号）"
+    },
+    {
+      "name": "サンキュ！",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "さんきゅ",
+      "note": "増刊あり"
+    },
+    {
+      "name": "モーニング",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "もーにんぐ",
+      "note": "年末年始・GW・お盆に合併号"
+    },
+    {
+      "name": "ちゃお",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "ちゃお",
+      "note": "増刊（ちゃおデラックス 等）あり"
+    },
+    {
+      "name": "婦人公論",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "ふじんこうろん"
+    },
+    {
+      "name": "クロワッサン",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "くろわっさん",
+      "note": "月2回刊。「Vol.1174」のような通し番号。特別編集の増刊あり"
+    },
+    {
+      "name": "LEE",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "りー",
+      "note": "コンパクト版あり"
+    },
+    {
+      "name": "VERY",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "ゔぇりい"
+    },
+    {
+      "name": "週刊少年チャンピオン",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんしょうねんちゃんぴおん",
+      "note": "年末年始・GW・お盆に合併号"
+    },
+    {
+      "name": "ビッグコミックスピリッツ",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "びっぐこみっくすぴりっつ",
+      "note": "年末年始・GW・お盆に合併号"
+    },
+    {
+      "name": "FLASH",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "ふらっしゅ",
+      "note": "日付号。合併号が多い（例：10月20・27日合併号）。増刊あり"
+    },
+    {
+      "name": "週刊プレイボーイ",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんぷれいぼーい",
+      "note": "「42-43号」のような合併号が年末年始・GW・お盆など"
+    },
+    {
+      "name": "週刊大衆",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんたいしゅう",
+      "note": "日付号。合併号あり（例：7/27・8/3号）。休みの週がある"
+    },
+    {
+      "name": "Sports Graphic Number",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "すぽーつぐらふぃっくなんばー",
+      "note": "「1153号」のような創刊からの通し番号。合併号（例：1137・1138号）と臨時増刊あり"
+    },
+    {
+      "name": "anan",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "あんあん",
+      "note": "「No.2499」のような通し番号と日付号を併記。合併号、Special Edition（表紙違い）あり"
+    },
+    {
+      "name": "週刊TVガイド",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "しゅうかんてぃーゔぃーがいど",
+      "note": "日付号（例：10/16号）。地域版あり（関東版・関西版など）。年末年始は特大号"
+    },
+    {
+      "name": "月刊ザテレビジョン",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "げっかんざてれびじょん",
+      "note": "地域版あり（首都圏版・関西版・中部版など）"
+    },
+    {
+      "name": "BRUTUS",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "ぶるーたす",
+      "note": "月2回刊。「No.10xx」の通し番号と日付号を併記。合併号あり"
+    },
+    {
+      "name": "Tarzan",
+      "style": "serial",
+      "interval": "biweekly",
+      "reading": "たーざん",
+      "note": "月2回刊。「No.9xx」の通し番号と日付号を併記。夏は合併号"
+    },
+    {
+      "name": "Hanako",
+      "style": "yearMonth",
+      "interval": "monthly",
+      "reading": "はなこ"
+    },
+    {
+      "name": "AERA",
+      "style": "serial",
+      "interval": "weekly",
+      "reading": "あえら",
+      "note": "日付号。年末年始・GW・お盆などに合併号。増刊（AERA dot. ムック等）あり"
+    }
+  ],
   "books": []
 }
