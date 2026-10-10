@@ -1,6 +1,6 @@
 {
   "format": "dokomade-topics",
-  "version": 20261011,
+  "version": 20261012,
   "topics": [
     {
       "id": "tsugimanga-2026-comics",
@@ -73,6 +73,84 @@
           "kind": "manga",
           "title": "都市伝説先輩",
           "note": "5位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2026",
+      "date": "2026-04-09",
+      "title": "2026年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "items": [
+        {
+          "kind": "book",
+          "title": "イン・ザ・メガチャーチ",
+          "author": "朝井リョウ",
+          "publisher": "日経BP 日本経済新聞出版",
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "熟柿",
+          "author": "佐藤正午",
+          "publisher": "KADOKAWA",
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "PRIZE―プライズ―",
+          "author": "村山由佳",
+          "publisher": "文藝春秋",
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "エピクロスの処方箋",
+          "author": "夏川草介",
+          "publisher": "水鈴社",
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "暁星",
+          "author": "湊かなえ",
+          "publisher": "双葉社",
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "殺し屋の営業術",
+          "author": "野宮有",
+          "publisher": "講談社",
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "ありか",
+          "author": "瀬尾まいこ",
+          "publisher": "水鈴社",
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "探偵小石は恋しない",
+          "author": "森バジル",
+          "publisher": "小学館",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "失われた貌",
+          "author": "櫻田智也",
+          "publisher": "新潮社",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "さよならジャバウォック",
+          "author": "伊坂幸太郎",
+          "publisher": "双葉社",
+          "note": "10位"
         }
       ]
     }
