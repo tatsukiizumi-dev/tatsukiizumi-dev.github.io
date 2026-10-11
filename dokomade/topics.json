@@ -1,6 +1,6 @@
 {
   "format": "dokomade-topics",
-  "version": 20261012,
+  "version": 20261013,
   "topics": [
     {
       "id": "tsugimanga-2026-comics",
@@ -151,6 +151,431 @@
           "author": "伊坂幸太郎",
           "publisher": "双葉社",
           "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-175",
+      "date": "2026-07-15",
+      "title": "第175回 芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "ゾンビ回収婦",
+          "author": "小砂川チト",
+          "publisher": "講談社",
+          "pages": 160,
+          "note": "芥川賞",
+          "amazon": "https://www.amazon.co.jp/dp/4065441129"
+        },
+        {
+          "kind": "book",
+          "title": "けんぐゎい",
+          "author": "朝倉かすみ",
+          "publisher": "光文社",
+          "note": "直木賞",
+          "amazon": "https://www.amazon.co.jp/dp/4334109527"
+        }
+      ]
+    },
+    {
+      "id": "kodansha-manga-50",
+      "date": "2026-05-11",
+      "title": "第50回講談社漫画賞",
+      "lead": "講談社が部門ごとに選ぶ漫画の賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ガチアクタ",
+          "author": "裏那圭／晏童秀吉",
+          "publisher": "講談社",
+          "note": "少年部門"
+        },
+        {
+          "kind": "manga",
+          "title": "死に戻りの魔法学校生活を、元恋人とプロローグから（※ただし好感度はゼロ）",
+          "author": "六つ花えいこ／白川蟻ん",
+          "publisher": "KADOKAWA",
+          "note": "少女部門"
+        },
+        {
+          "kind": "manga",
+          "title": "ダーウィン事変",
+          "author": "うめざわしゅん",
+          "publisher": "講談社",
+          "note": "総合部門"
+        }
+      ]
+    },
+    {
+      "id": "honkaku-mystery-26",
+      "date": "2026-05-11",
+      "title": "第26回本格ミステリ大賞",
+      "lead": "本格ミステリ作家クラブが選ぶ賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "夜と霧の誘拐",
+          "author": "笠井潔",
+          "publisher": "講談社",
+          "pages": 672,
+          "note": "小説部門"
+        },
+        {
+          "kind": "book",
+          "title": "謎ときエドガー・アラン・ポー",
+          "author": "竹内康浩",
+          "publisher": "新潮社",
+          "note": "評論部門"
+        }
+      ]
+    },
+    {
+      "id": "tezuka-30",
+      "date": "2026-04-27",
+      "title": "第30回手塚治虫文化賞",
+      "lead": "朝日新聞社が主催する漫画の賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "本なら売るほど",
+          "author": "児島青",
+          "publisher": "KADOKAWA",
+          "note": "マンガ大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "怪獣を解剖する",
+          "author": "サイトウマド",
+          "publisher": "KADOKAWA",
+          "note": "新生賞"
+        },
+        {
+          "kind": "manga",
+          "title": "あたらしいともだち かわじろう短編集",
+          "author": "かわじろう",
+          "publisher": "マガジンハウス",
+          "note": "短編賞"
+        },
+        {
+          "kind": "manga",
+          "title": "ペリリュー -楽園のゲルニカ-",
+          "author": "武田一義",
+          "publisher": "白泉社",
+          "note": "特別賞"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2026",
+      "date": "2026-03-26",
+      "title": "マンガ大賞2026",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "本なら売るほど",
+          "author": "児島青",
+          "publisher": "KADOKAWA",
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "「壇蜜」",
+          "author": "清野とおる",
+          "publisher": "講談社",
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "邪神の弁当屋さん",
+          "author": "イシコ",
+          "publisher": "講談社",
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "おかえり水平線",
+          "author": "渡部大羊",
+          "publisher": "集英社",
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "友達だった人 絹田みや作品集",
+          "author": "絹田みや",
+          "publisher": "光文社",
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "怪獣を解剖する",
+          "author": "サイトウマド",
+          "publisher": "KADOKAWA",
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "路傍のフジイ",
+          "author": "鍋倉夫",
+          "publisher": "小学館",
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "サンキューピッチ",
+          "author": "住吉九",
+          "publisher": "集英社",
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "RIOT",
+          "author": "塚田ゆうた",
+          "publisher": "小学館",
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "魔男のイチ",
+          "author": "西修／宇佐崎しろ",
+          "publisher": "集英社",
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "kinobest-2026",
+      "date": "2026-02-02",
+      "title": "キノベス！2026",
+      "lead": "紀伊國屋書店のスタッフが選ぶベスト",
+      "items": [
+        {
+          "kind": "book",
+          "title": "世界99",
+          "author": "村田沙耶香",
+          "publisher": "集英社",
+          "note": "1位"
+        },
+        {
+          "kind": "manga",
+          "title": "本なら売るほど",
+          "author": "児島青",
+          "publisher": "KADOKAWA",
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "イン・ザ・メガチャーチ",
+          "author": "朝井リョウ",
+          "publisher": "日経BP 日本経済新聞出版",
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "僕には鳥の言葉がわかる",
+          "author": "鈴木俊貴",
+          "publisher": "小学館",
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "エピクロスの処方箋",
+          "author": "夏川草介",
+          "publisher": "水鈴社",
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "殺し屋の営業術",
+          "author": "野宮有",
+          "publisher": "講談社",
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "失われた貌",
+          "author": "櫻田智也",
+          "publisher": "新潮社",
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "さよならジャバウォック",
+          "author": "伊坂幸太郎",
+          "publisher": "双葉社",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "探偵小石は恋しない",
+          "author": "森バジル",
+          "publisher": "小学館",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "謎の香りはパン屋から",
+          "author": "土屋うさぎ",
+          "publisher": "宝島社",
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "shoten-osusume-comic-2026",
+      "date": "2026-01-29",
+      "title": "全国書店員が選んだおすすめコミック2026",
+      "lead": "書店員の投票で選ぶ漫画のランキング",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ベル・プペーのスパダリ婚約～「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い！～",
+          "author": "朝霧あさき／セレン",
+          "publisher": "スクウェア・エニックス",
+          "note": "1位"
+        },
+        {
+          "kind": "manga",
+          "title": "本なら売るほど",
+          "author": "児島青",
+          "publisher": "KADOKAWA",
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "あなたのお城の小人さん ～御飯下さい、働きますっ～",
+          "author": "美袋和仁／猫Ｒ／栗原一実",
+          "publisher": "スクウェア・エニックス",
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "ディグイット",
+          "author": "ヨシダ。",
+          "publisher": "講談社",
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "恋するリップ・ティント",
+          "author": "楠なな",
+          "publisher": "集英社",
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "継母の心得",
+          "author": "ほおのきソラ／藤丸豆ノ介／トール",
+          "publisher": "アルファポリス",
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "大正學生愛妻家",
+          "author": "粥川すず",
+          "publisher": "講談社",
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "THE BAND",
+          "author": "ハロルド作石",
+          "publisher": "講談社",
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "サンキューピッチ",
+          "author": "住吉九",
+          "publisher": "集英社",
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "K-9 警視庁公安部公安第9課異能対策係",
+          "author": "奧山哲矢",
+          "publisher": "講談社",
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-174",
+      "date": "2026-01-14",
+      "title": "第174回 芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "時の家",
+          "author": "鳥山まこと",
+          "publisher": "講談社",
+          "pages": 144,
+          "note": "芥川賞",
+          "amazon": "https://www.amazon.co.jp/dp/4065412277"
+        },
+        {
+          "kind": "book",
+          "title": "叫び",
+          "author": "畠山丑雄",
+          "publisher": "新潮社",
+          "pages": 144,
+          "note": "芥川賞",
+          "amazon": "https://www.amazon.co.jp/dp/4103567511"
+        },
+        {
+          "kind": "book",
+          "title": "カフェーの帰り道",
+          "author": "嶋津輝",
+          "publisher": "東京創元社",
+          "pages": 224,
+          "note": "直木賞",
+          "amazon": "https://www.amazon.co.jp/dp/4488029361"
+        }
+      ]
+    },
+    {
+      "id": "shogakukan-manga-71",
+      "date": "2026-01-14",
+      "title": "第71回小学館漫画賞",
+      "lead": "小学館が選ぶ、その年の優れた漫画",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "運命の巻戻士",
+          "author": "木村風太",
+          "publisher": "小学館",
+          "note": "受賞"
+        },
+        {
+          "kind": "manga",
+          "title": "COSMOS",
+          "author": "田村隆平",
+          "publisher": "小学館",
+          "note": "受賞"
+        },
+        {
+          "kind": "manga",
+          "title": "ダンダダン",
+          "author": "龍幸伸",
+          "publisher": "集英社",
+          "note": "受賞"
+        },
+        {
+          "kind": "manga",
+          "title": "出禁のモグラ",
+          "author": "江口夏実",
+          "publisher": "講談社",
+          "note": "受賞"
+        },
+        {
+          "kind": "manga",
+          "title": "ひらやすみ",
+          "author": "真造圭伍",
+          "publisher": "小学館",
+          "note": "受賞"
         }
       ]
     }
