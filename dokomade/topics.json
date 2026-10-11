@@ -1,12 +1,13 @@
 {
   "format": "dokomade-topics",
-  "version": 20261013,
+  "version": 20261014,
   "topics": [
     {
       "id": "tsugimanga-2026-comics",
       "date": "2026-09-16",
       "title": "次にくるマンガ大賞 2026 コミックス部門",
       "lead": "読者の投票で選ぶ「次にくる」漫画の賞",
+      "series": "次にくるマンガ大賞",
       "items": [
         {
           "kind": "manga",
@@ -45,6 +46,7 @@
       "date": "2026-09-16",
       "title": "次にくるマンガ大賞 2026 Webマンガ部門",
       "lead": "読者の投票で選ぶ「次にくる」漫画の賞",
+      "series": "次にくるマンガ大賞",
       "items": [
         {
           "kind": "manga",
@@ -81,6 +83,7 @@
       "date": "2026-04-09",
       "title": "2026年本屋大賞",
       "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
       "items": [
         {
           "kind": "book",
@@ -159,6 +162,7 @@
       "date": "2026-07-15",
       "title": "第175回 芥川賞・直木賞",
       "lead": "純文学の芥川賞と大衆文学の直木賞",
+      "series": "芥川賞・直木賞",
       "items": [
         {
           "kind": "book",
@@ -184,6 +188,7 @@
       "date": "2026-05-11",
       "title": "第50回講談社漫画賞",
       "lead": "講談社が部門ごとに選ぶ漫画の賞",
+      "series": "講談社漫画賞",
       "items": [
         {
           "kind": "manga",
@@ -213,6 +218,7 @@
       "date": "2026-05-11",
       "title": "第26回本格ミステリ大賞",
       "lead": "本格ミステリ作家クラブが選ぶ賞",
+      "series": "本格ミステリ大賞",
       "items": [
         {
           "kind": "book",
@@ -236,6 +242,7 @@
       "date": "2026-04-27",
       "title": "第30回手塚治虫文化賞",
       "lead": "朝日新聞社が主催する漫画の賞",
+      "series": "手塚治虫文化賞",
       "items": [
         {
           "kind": "manga",
@@ -272,6 +279,7 @@
       "date": "2026-03-26",
       "title": "マンガ大賞2026",
       "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
       "items": [
         {
           "kind": "manga",
@@ -350,6 +358,7 @@
       "date": "2026-02-02",
       "title": "キノベス！2026",
       "lead": "紀伊國屋書店のスタッフが選ぶベスト",
+      "series": "キノベス！",
       "items": [
         {
           "kind": "book",
@@ -428,6 +437,7 @@
       "date": "2026-01-29",
       "title": "全国書店員が選んだおすすめコミック2026",
       "lead": "書店員の投票で選ぶ漫画のランキング",
+      "series": "全国書店員が選んだおすすめコミック",
       "items": [
         {
           "kind": "manga",
@@ -506,6 +516,7 @@
       "date": "2026-01-14",
       "title": "第174回 芥川賞・直木賞",
       "lead": "純文学の芥川賞と大衆文学の直木賞",
+      "series": "芥川賞・直木賞",
       "items": [
         {
           "kind": "book",
@@ -541,6 +552,7 @@
       "date": "2026-01-14",
       "title": "第71回小学館漫画賞",
       "lead": "小学館が選ぶ、その年の優れた漫画",
+      "series": "小学館漫画賞",
       "items": [
         {
           "kind": "manga",
@@ -576,6 +588,5036 @@
           "author": "真造圭伍",
           "publisher": "小学館",
           "note": "受賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2026",
+      "date": "2026",
+      "title": "このマンガがすごい！2026",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "本なら売るほど",
+          "author": "児島青",
+          "publisher": "KADOKAWA",
+          "volumes": 3,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "半分姉弟",
+          "author": "藤見よいこ",
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2025",
+      "date": "2025",
+      "title": "2025年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "カフネ",
+          "author": "阿部暁子",
+          "publisher": "講談社",
+          "pages": 302,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "アルプス席の母",
+          "author": "早見和真",
+          "publisher": "小学館",
+          "pages": 351,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "小説",
+          "author": "野崎まど",
+          "publisher": "講談社",
+          "pages": 218,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "禁忌の子",
+          "author": "山口未桜",
+          "publisher": "東京創元社",
+          "pages": 318,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "人魚が逃げた",
+          "author": "青山美智子",
+          "publisher": "PHP研究所",
+          "pages": 222,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "spring",
+          "author": "恩田陸",
+          "publisher": "筑摩書房",
+          "pages": 437,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "恋とか愛とかやさしさなら",
+          "author": "一穂ミチ",
+          "publisher": "小学館",
+          "pages": 236,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "生殖記",
+          "author": "朝井リョウ",
+          "publisher": "小学館",
+          "pages": 284,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "死んだ山田と教室",
+          "author": "金子玲介",
+          "publisher": "講談社",
+          "pages": 300,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "成瀬は信じた道をいく",
+          "author": "宮島未奈",
+          "publisher": "新潮社",
+          "pages": 199,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2025",
+      "date": "2025",
+      "title": "マンガ大賞2025",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ありす、宇宙までも",
+          "author": "売野機子",
+          "publisher": "小学館",
+          "volumes": 7,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "路傍のフジイ",
+          "author": "鍋倉夫",
+          "publisher": "小学館",
+          "volumes": 6,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "ふつうの軽音部",
+          "author": "出内テツオ／クワハリ",
+          "publisher": "集英社",
+          "volumes": 11,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "図書館の大魔術師",
+          "author": "泉光",
+          "publisher": "講談社",
+          "volumes": 10,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "どくだみの花咲くころ",
+          "author": "城戸志保",
+          "publisher": "講談社",
+          "volumes": 5,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "死に戻りの魔法学校生活を、元恋人とプロローグから(※ただし好感度はゼロ)",
+          "author": "白川蟻ん／六つ花えいこ／秋鹿ユギリ",
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "女の園の星",
+          "author": "和山やま",
+          "publisher": "祥伝社",
+          "volumes": 4,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "COSMOS",
+          "author": "田村隆平",
+          "publisher": "小学館",
+          "volumes": 9,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "この世は戦う価値がある",
+          "author": "こだまはつみ",
+          "publisher": "小学館",
+          "volumes": 5,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "ドカ食いダイスキ! もちづきさん",
+          "author": "まるよのかもめ",
+          "publisher": "白泉社",
+          "volumes": 3,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2025",
+      "date": "2025",
+      "title": "2025年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "DTOPIA",
+          "author": "安堂ホセ",
+          "publisher": "河出書房新社",
+          "pages": 153,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "ゲーテはすべてを言った",
+          "author": "鈴木結生",
+          "publisher": "朝日新聞出版",
+          "pages": 188,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "藍を継ぐ海",
+          "author": "伊与原新",
+          "publisher": "新潮社",
+          "pages": 268,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2025",
+      "date": "2025",
+      "title": "このマンガがすごい！2025",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "君と宇宙を歩くために",
+          "author": "泥ノ田犬彦",
+          "publisher": "講談社",
+          "volumes": 6,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "環と周",
+          "author": "よしながふみ",
+          "publisher": "集英社",
+          "volumes": 1,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2024",
+      "date": "2024",
+      "title": "2024年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "成瀬は天下を取りにいく",
+          "author": "宮島未奈",
+          "publisher": "新潮社",
+          "pages": 277,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "水車小屋のネネ",
+          "author": "津村記久子",
+          "publisher": "毎日新聞出版",
+          "pages": 485,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "存在のすべてを",
+          "author": "塩田武士",
+          "publisher": "朝日新聞出版",
+          "pages": 464,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "スピノザの診察室",
+          "author": "夏川草介",
+          "publisher": "水鈴社",
+          "pages": 287,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "レーエンデ国物語",
+          "author": "多崎礼",
+          "publisher": "講談社",
+          "pages": 492,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "黄色い家",
+          "author": "川上未映子",
+          "publisher": "中央公論新社",
+          "pages": 601,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "リカバリー・カバヒコ",
+          "author": "青山美智子",
+          "publisher": "光文社",
+          "pages": 234,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "星を編む",
+          "author": "凪良ゆう",
+          "publisher": "講談社",
+          "pages": 285,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "放課後ミステリクラブ 1金魚の泳ぐプール事件",
+          "author": "知念実希人",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "君が手にするはずだった黄金について",
+          "author": "小川哲",
+          "publisher": "新潮社",
+          "pages": 243,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2024",
+      "date": "2024",
+      "title": "マンガ大賞2024",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "君と宇宙を歩くために",
+          "author": "泥ノ田犬彦",
+          "publisher": "講談社",
+          "volumes": 6,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "黄泉のツガイ",
+          "author": "荒川弘",
+          "publisher": "スクウェア・エニックス",
+          "volumes": 13,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "神田ごくら町職人ばなし",
+          "author": "坂上暁仁",
+          "publisher": "リイド社",
+          "volumes": 2,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "平和の国の島崎へ",
+          "author": "瀬下猛／濱田轟天",
+          "publisher": "講談社",
+          "volumes": 13,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "ダイヤモンドの功罪",
+          "author": "平井大橋",
+          "publisher": "集英社",
+          "volumes": 10,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "天幕のジャードゥーガル",
+          "author": "トマトスープ",
+          "publisher": "秋田書店",
+          "volumes": 6,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "正反対な君と僕",
+          "author": "阿賀沢紅茶",
+          "publisher": "集英社",
+          "volumes": 8,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "環と周",
+          "author": "よしながふみ",
+          "publisher": "集英社",
+          "volumes": 1,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "ひらやすみ",
+          "author": "真造圭伍",
+          "publisher": "小学館",
+          "volumes": 10,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "ファミレス行こ。",
+          "author": "和山やま",
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2024",
+      "date": "2024",
+      "title": "2024年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "東京都同情塔",
+          "author": "九段理江",
+          "publisher": "新潮社",
+          "pages": 143,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "サンショウウオの四十九日",
+          "author": "朝比奈秋",
+          "publisher": "新潮社",
+          "pages": 141,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "バリ山行",
+          "author": "松永K三蔵",
+          "publisher": "講談社",
+          "pages": 161,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "ともぐい",
+          "author": "河﨑秋子",
+          "publisher": "新潮社",
+          "pages": 295,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "八月の御所グラウンド",
+          "author": "万城目学",
+          "publisher": "文藝春秋",
+          "pages": 204,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "ツミデミック",
+          "author": "一穂ミチ",
+          "publisher": "光文社",
+          "pages": 270,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2024",
+      "date": "2024",
+      "title": "このマンガがすごい！2024",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ダイヤモンドの功罪",
+          "author": "平井大橋",
+          "publisher": "集英社",
+          "volumes": 10,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "うみべのストーブ 大白小蟹短編集",
+          "author": "大白小蟹",
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2023",
+      "date": "2023",
+      "title": "2023年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "汝、星のごとく",
+          "author": "凪良ゆう",
+          "publisher": "講談社",
+          "pages": 439,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "ラブカは静かに弓を持つ",
+          "author": "安壇美緒",
+          "publisher": "集英社",
+          "pages": 339,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "光のとこにいてね",
+          "author": "一穂ミチ",
+          "publisher": "文藝春秋",
+          "pages": 509,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "爆弾",
+          "author": "呉勝浩",
+          "publisher": "講談社",
+          "pages": 509,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "月の立つ林で",
+          "author": "青山美智子",
+          "publisher": "ポプラ社",
+          "pages": 281,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "君のクイズ",
+          "author": "小川哲",
+          "publisher": "朝日新聞出版",
+          "pages": 245,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "方舟",
+          "author": "夕木春央",
+          "publisher": "講談社",
+          "pages": 402,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "宙ごはん",
+          "author": "町田そのこ",
+          "publisher": "小学館",
+          "pages": 460,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "川のほとりに立つ者は",
+          "author": "寺地はるな",
+          "publisher": "双葉社",
+          "pages": 260,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "#真相をお話しします",
+          "author": "結城真一郎",
+          "publisher": "新潮社",
+          "pages": 269,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2023",
+      "date": "2023",
+      "title": "マンガ大賞2023",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "これ描いて死ね",
+          "author": "とよ田みのる",
+          "publisher": "小学館",
+          "volumes": 10,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "あかね噺",
+          "author": "馬上鷹将／末永裕樹",
+          "publisher": "集英社",
+          "volumes": 23,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "女の園の星",
+          "author": "和山やま",
+          "publisher": "祥伝社",
+          "volumes": 4,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "正反対な君と僕",
+          "author": "阿賀沢紅茶",
+          "publisher": "集英社",
+          "volumes": 8,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "天幕のジャードゥーガル",
+          "author": "トマトスープ",
+          "publisher": "秋田書店",
+          "volumes": 6,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "日本三國",
+          "author": "松木いっか",
+          "publisher": "小学館",
+          "volumes": 7,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "さよなら絵梨",
+          "author": "藤本タツキ",
+          "publisher": "集英社",
+          "volumes": 1,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "スーパーの裏でヤニ吸うふたり",
+          "author": "地主",
+          "publisher": "スクウェア・エニックス",
+          "volumes": 9,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "劇光仮面",
+          "author": "山口貴由",
+          "publisher": "小学館",
+          "volumes": 9,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "タコピーの原罪",
+          "author": "タイザン5",
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "光が死んだ夏",
+          "author": "モクモクれん",
+          "publisher": "KADOKAWA",
+          "volumes": 9,
+          "note": "11位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2023",
+      "date": "2023",
+      "title": "2023年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "この世の喜びよ",
+          "author": "井戸川射子",
+          "publisher": "講談社",
+          "pages": 163,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "荒地の家族",
+          "author": "佐藤厚志",
+          "publisher": "新潮社",
+          "pages": 170,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "ハンチバック",
+          "author": "市川沙央",
+          "publisher": "文藝春秋",
+          "pages": 134,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "地図と拳",
+          "author": "小川哲",
+          "publisher": "集英社",
+          "pages": 633,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "しろがねの葉",
+          "author": "千早茜",
+          "publisher": "新潮社",
+          "pages": 399,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "極楽征夷大将軍",
+          "author": "垣根涼介",
+          "publisher": "文藝春秋",
+          "pages": 549,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "木挽町のあだ討ち",
+          "author": "永井紗耶子",
+          "publisher": "新潮社",
+          "pages": 354,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2023",
+      "date": "2023",
+      "title": "このマンガがすごい！2023",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "光が死んだ夏",
+          "author": "モクモクれん",
+          "publisher": "KADOKAWA",
+          "volumes": 9,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "天幕のジャードゥーガル",
+          "author": "トマトスープ",
+          "publisher": "秋田書店",
+          "volumes": 6,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2022",
+      "date": "2022",
+      "title": "2022年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "同志少女よ、敵を撃て",
+          "author": "逢坂冬馬",
+          "publisher": "早川書房",
+          "pages": 601,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "赤と青とエスキース",
+          "author": "青山美智子",
+          "publisher": "PHP研究所",
+          "pages": 257,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "スモールワールズ",
+          "author": "一穂ミチ",
+          "publisher": "講談社",
+          "pages": 349,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "正欲",
+          "author": "朝井リョウ",
+          "publisher": "新潮社",
+          "pages": 512,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "六人の嘘つきな大学生",
+          "author": "浅倉秋成",
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "夜が明ける",
+          "author": "西加奈子",
+          "publisher": "新潮社",
+          "pages": 527,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "残月記",
+          "author": "小田雅久仁",
+          "publisher": "双葉社",
+          "pages": 492,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "硝子の塔の殺人",
+          "author": "知念実希人",
+          "publisher": "実業之日本社",
+          "pages": 555,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "黒牢城",
+          "author": "米澤穂信",
+          "publisher": "KADOKAWA",
+          "pages": 523,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "星を掬う",
+          "author": "町田そのこ",
+          "publisher": "中央公論新社",
+          "pages": 355,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2022",
+      "date": "2022",
+      "title": "マンガ大賞2022",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ダーウィン事変",
+          "author": "うめざわしゅん",
+          "publisher": "講談社",
+          "volumes": 11,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "ルックバック",
+          "author": "藤本タツキ",
+          "publisher": "集英社",
+          "volumes": 1,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "ひらやすみ",
+          "author": "真造圭伍",
+          "publisher": "小学館",
+          "volumes": 10,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "女の園の星",
+          "author": "和山やま",
+          "publisher": "祥伝社",
+          "volumes": 4,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "チ。―地球の運動について―",
+          "author": "魚豊",
+          "publisher": "小学館",
+          "volumes": 8,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "トリリオンゲーム",
+          "author": "稲垣理一郎／池上遼一",
+          "publisher": "小学館",
+          "volumes": 11,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "ダンダダン",
+          "author": "龍幸伸",
+          "publisher": "集英社",
+          "volumes": 25,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "【推しの子】",
+          "author": "赤坂アカ／横槍メンゴ",
+          "publisher": "集英社",
+          "volumes": 16,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "海が走るエンドロール",
+          "author": "たらちねジョン",
+          "publisher": "秋田書店",
+          "volumes": 9,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "自転車屋さんの高橋くん",
+          "author": "松虫あられ",
+          "publisher": "リイド社",
+          "volumes": 9,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2022",
+      "date": "2022",
+      "title": "2022年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "ブラックボックス",
+          "author": "砂川文次",
+          "publisher": "講談社",
+          "pages": 196,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "おいしいごはんが食べられますように",
+          "author": "高瀬隼子",
+          "publisher": "講談社",
+          "pages": 149,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "塞王の楯",
+          "author": "今村翔吾",
+          "publisher": "集英社",
+          "pages": 552,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "黒牢城",
+          "author": "米澤穂信",
+          "publisher": "KADOKAWA",
+          "pages": 523,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "夜に星を放つ",
+          "author": "窪美澄",
+          "publisher": "文藝春秋",
+          "pages": 238,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2022",
+      "date": "2022",
+      "title": "このマンガがすごい！2022",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ルックバック",
+          "author": "藤本タツキ",
+          "publisher": "集英社",
+          "volumes": 1,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "海が走るエンドロール",
+          "author": "たらちねジョン",
+          "publisher": "秋田書店",
+          "volumes": 9,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2021",
+      "date": "2021",
+      "title": "2021年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "52ヘルツのクジラたち",
+          "author": "町田そのこ",
+          "publisher": "中央公論新社",
+          "pages": 314,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "お探し物は図書室まで",
+          "author": "青山美智子",
+          "publisher": "ポプラ社",
+          "pages": 325,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "犬がいた季節",
+          "author": "伊吹有喜",
+          "publisher": "双葉社",
+          "pages": 388,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "逆ソクラテス",
+          "author": "伊坂幸太郎",
+          "publisher": "集英社",
+          "pages": 329,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "自転しながら公転する",
+          "author": "山本文緒",
+          "publisher": "新潮社",
+          "pages": 664,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "八月の銀の雪",
+          "author": "伊与原新",
+          "publisher": "新潮社",
+          "pages": 347,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "滅びの前のシャングリラ",
+          "author": "凪良ゆう",
+          "publisher": "講談社",
+          "pages": 425,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "オルタネート",
+          "author": "加藤シゲアキ",
+          "publisher": "新潮社",
+          "pages": 487,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "推し、燃ゆ",
+          "author": "宇佐見りん",
+          "publisher": "河出書房新社",
+          "pages": 165,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "この本を盗む者は",
+          "author": "深緑野分",
+          "publisher": "KADOKAWA",
+          "pages": 426,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2021",
+      "date": "2021",
+      "title": "マンガ大賞2021",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "葬送のフリーレン",
+          "author": "山田鐘人／アベツカサ",
+          "publisher": "小学館",
+          "volumes": 15,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "チ。―地球の運動について―",
+          "author": "魚豊",
+          "publisher": "小学館",
+          "volumes": 8,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "カラオケ行こ!",
+          "author": "和山やま",
+          "publisher": "KADOKAWA",
+          "volumes": 1,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "水は海に向かって流れる",
+          "author": "田島列島",
+          "publisher": "講談社",
+          "volumes": 3,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "【推しの子】",
+          "author": "赤坂アカ／横槍メンゴ",
+          "publisher": "集英社",
+          "volumes": 16,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "怪獣8号",
+          "author": "松本直也",
+          "publisher": "集英社",
+          "volumes": 16,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "女の園の星",
+          "author": "和山やま",
+          "publisher": "祥伝社",
+          "volumes": 4,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "メタモルフォーゼの縁側",
+          "author": "鶴谷香央理",
+          "publisher": "KADOKAWA",
+          "volumes": 5,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "九龍ジェネリックロマンス",
+          "author": "眉月じゅん",
+          "publisher": "集英社",
+          "volumes": 12,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "SPY×FAMILY",
+          "author": "遠藤達哉",
+          "publisher": "集英社",
+          "volumes": 17,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2021",
+      "date": "2021",
+      "title": "2021年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "推し、燃ゆ",
+          "author": "宇佐見りん",
+          "publisher": "河出書房新社",
+          "pages": 165,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "貝に続く場所にて",
+          "author": "石沢麻依",
+          "publisher": "講談社",
+          "pages": 234,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "彼岸花が咲く島",
+          "author": "李琴峰",
+          "publisher": "文藝春秋",
+          "pages": 207,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "心淋し川",
+          "author": "西條奈加",
+          "publisher": "集英社",
+          "pages": 278,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "テスカトリポカ",
+          "author": "佐藤究",
+          "publisher": "KADOKAWA",
+          "pages": 690,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "星落ちて、なお",
+          "author": "澤田瞳子",
+          "publisher": "文藝春秋",
+          "pages": 361,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2021",
+      "date": "2021",
+      "title": "このマンガがすごい！2021",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "チェンソーマン",
+          "author": "藤本タツキ",
+          "publisher": "集英社",
+          "volumes": 24,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "女の園の星",
+          "author": "和山やま",
+          "publisher": "祥伝社",
+          "volumes": 4,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2020",
+      "date": "2020",
+      "title": "2020年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "流浪の月",
+          "author": "凪良ゆう",
+          "publisher": "東京創元社",
+          "pages": 355,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "ライオンのおやつ",
+          "author": "小川糸",
+          "publisher": "ポプラ社",
+          "pages": 276,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "線は、僕を描く",
+          "author": "砥上裕將",
+          "publisher": "講談社",
+          "pages": 396,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "ノースライト",
+          "author": "横山秀夫",
+          "publisher": "新潮社",
+          "pages": 546,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "熱源",
+          "author": "川越宗一",
+          "publisher": "文藝春秋",
+          "pages": 490,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "medium霊媒探偵城塚翡翠",
+          "author": "相沢沙呼",
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "夏物語",
+          "author": "川上未映子",
+          "publisher": "文藝春秋",
+          "pages": 654,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "ムゲンのi",
+          "author": "知念実希人",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "店長がバカすぎて",
+          "author": "早見和真",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "むかしむかしあるところに、死体がありました。",
+          "author": "青柳碧人",
+          "publisher": "双葉社",
+          "pages": 293,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2020",
+      "date": "2020",
+      "title": "マンガ大賞2020",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ブルーピリオド",
+          "author": "山口つばさ",
+          "publisher": "講談社",
+          "volumes": 19,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "SPY×FAMILY",
+          "author": "遠藤達哉",
+          "publisher": "集英社",
+          "volumes": 17,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "スキップとローファー",
+          "author": "高松美咲",
+          "publisher": "講談社",
+          "volumes": 13,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "波よ聞いてくれ",
+          "author": "沙村広明",
+          "publisher": "講談社",
+          "volumes": 13,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "水は海に向かって流れる",
+          "author": "田島列島",
+          "publisher": "講談社",
+          "volumes": 3,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "ミステリと言う勿れ",
+          "author": "田村由美",
+          "publisher": "小学館",
+          "volumes": 16,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "夢中さ、きみに。",
+          "author": "和山やま",
+          "publisher": "KADOKAWA",
+          "volumes": 1,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "チェンソーマン",
+          "author": "藤本タツキ",
+          "publisher": "集英社",
+          "volumes": 24,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "まくむすび",
+          "author": "保谷伸",
+          "publisher": "集英社",
+          "volumes": 5,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "違国日記",
+          "author": "ヤマシタトモコ",
+          "publisher": "祥伝社",
+          "volumes": 11,
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "僕の心のヤバイやつ",
+          "author": "桜井のりお",
+          "publisher": "秋田書店",
+          "volumes": 13,
+          "note": "11位"
+        },
+        {
+          "kind": "manga",
+          "title": "あした死ぬには、",
+          "author": "雁須磨子",
+          "note": "12位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2020",
+      "date": "2020",
+      "title": "2020年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "背高泡立草",
+          "author": "古川真人",
+          "publisher": "集英社",
+          "pages": 191,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "首里の馬",
+          "author": "高山羽根子",
+          "publisher": "新潮社",
+          "pages": 202,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "破局",
+          "author": "遠野遥",
+          "publisher": "河出書房新社",
+          "pages": 166,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "熱源",
+          "author": "川越宗一",
+          "publisher": "文藝春秋",
+          "pages": 490,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "少年と犬",
+          "author": "馳星周",
+          "publisher": "文藝春秋",
+          "pages": 379,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2020",
+      "date": "2020",
+      "title": "このマンガがすごい！2020",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "SPY×FAMILY",
+          "author": "遠藤達哉",
+          "publisher": "集英社",
+          "volumes": 17,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "さよならミニスカート",
+          "author": "牧野あおい",
+          "publisher": "集英社",
+          "volumes": 4,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2019",
+      "date": "2019",
+      "title": "2019年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "そして、バトンは渡された",
+          "author": "瀬尾まいこ",
+          "publisher": "文藝春秋",
+          "pages": 425,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "ひと",
+          "author": "小野寺史宜",
+          "publisher": "祥伝社",
+          "pages": 330,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "ベルリンは晴れているか",
+          "author": "深緑野分",
+          "publisher": "筑摩書房",
+          "pages": 537,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "熱帯",
+          "author": "森見登美彦",
+          "publisher": "文藝春秋",
+          "pages": 554,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "ある男",
+          "author": "平野啓一郎",
+          "publisher": "文藝春秋",
+          "pages": 369,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "さざなみのよる",
+          "author": "木皿泉",
+          "publisher": "河出書房新社",
+          "pages": 241,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "愛なき世界",
+          "author": "三浦しをん",
+          "publisher": "中央公論新社",
+          "pages": 447,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "ひとつむぎの手",
+          "author": "知念実希人",
+          "publisher": "新潮社",
+          "pages": 420,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "火のないところに煙は",
+          "author": "芦沢央",
+          "publisher": "新潮社",
+          "pages": 287,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "フーガはユーガ",
+          "author": "伊坂幸太郎",
+          "publisher": "実業之日本社",
+          "pages": 340,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2019",
+      "date": "2019",
+      "title": "マンガ大賞2019",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "彼方のアストラ",
+          "author": "篠原健太",
+          "publisher": "集英社",
+          "volumes": 5,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "ミステリと言う勿れ",
+          "author": "田村由美",
+          "publisher": "小学館",
+          "volumes": 16,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "ブルーピリオド",
+          "author": "山口つばさ",
+          "publisher": "講談社",
+          "volumes": 19,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "違国日記",
+          "author": "ヤマシタトモコ",
+          "publisher": "祥伝社",
+          "volumes": 11,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "サザンと彗星の少女",
+          "author": "赤瀬由里子",
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "北北西に曇と往け",
+          "author": "入江亜季",
+          "publisher": "KADOKAWA",
+          "volumes": 7,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "金剛寺さんは面倒臭い",
+          "author": "とよ田みのる",
+          "publisher": "小学館",
+          "volumes": 7,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "メタモルフォーゼの縁側",
+          "author": "鶴谷香央理",
+          "publisher": "KADOKAWA",
+          "volumes": 5,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "ハクメイとミコチ",
+          "author": "樫木祐人",
+          "publisher": "KADOKAWA",
+          "volumes": 14,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "凪のお暇",
+          "author": "コナリミサト",
+          "publisher": "秋田書店",
+          "volumes": 12,
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "ダンジョン飯",
+          "author": "九井諒子",
+          "publisher": "KADOKAWA",
+          "volumes": 14,
+          "note": "11位"
+        },
+        {
+          "kind": "manga",
+          "title": "ゴールデンゴールド",
+          "author": "堀尾省太",
+          "publisher": "講談社",
+          "volumes": 9,
+          "note": "12位"
+        },
+        {
+          "kind": "manga",
+          "title": "1122",
+          "author": "渡辺ペコ",
+          "note": "13位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2019",
+      "date": "2019",
+      "title": "2019年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "ニムロッド",
+          "author": "上田岳弘",
+          "publisher": "講談社",
+          "pages": 167,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "1R1分34秒",
+          "author": "町屋良平",
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "むらさきのスカートの女",
+          "author": "今村夏子",
+          "publisher": "朝日新聞出版",
+          "pages": 211,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "宝島",
+          "author": "真藤順丈",
+          "publisher": "講談社",
+          "pages": 541,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "渦 妹背山婦女庭訓 魂結び",
+          "author": "大島真寿美",
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2019",
+      "date": "2019",
+      "title": "このマンガがすごい！2019",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "天国大魔境",
+          "author": "石黒正数",
+          "publisher": "講談社",
+          "volumes": 13,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "メタモルフォーゼの縁側",
+          "author": "鶴谷香央理",
+          "publisher": "KADOKAWA",
+          "volumes": 5,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2018",
+      "date": "2018",
+      "title": "2018年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "かがみの孤城",
+          "author": "辻村深月",
+          "publisher": "ポプラ社",
+          "pages": 554,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "盤上の向日葵",
+          "author": "柚月裕子",
+          "publisher": "中央公論新社",
+          "pages": 563,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "屍人荘の殺人",
+          "author": "今村昌弘",
+          "publisher": "東京創元社",
+          "pages": 381,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "たゆたえども沈まず",
+          "author": "原田マハ",
+          "publisher": "幻冬舎",
+          "pages": 450,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "AX アックス",
+          "author": "伊坂幸太郎",
+          "publisher": "KADOKAWA",
+          "pages": 374,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "騙し絵の牙",
+          "author": "塩田武士",
+          "publisher": "KADOKAWA",
+          "pages": 429,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "星の子",
+          "author": "今村夏子",
+          "publisher": "朝日新聞出版",
+          "pages": 255,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "崩れる脳を抱きしめて",
+          "author": "知念実希人",
+          "publisher": "実業之日本社",
+          "pages": 367,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "百貨の魔法",
+          "author": "村山早紀",
+          "publisher": "ポプラ社",
+          "pages": 452,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "キラキラ共和国",
+          "author": "小川糸",
+          "publisher": "幻冬舎",
+          "pages": 328,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2018",
+      "date": "2018",
+      "title": "マンガ大賞2018",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "BEASTARS",
+          "author": "板垣巴留",
+          "publisher": "秋田書店",
+          "volumes": 22,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "我らコンタクティ",
+          "author": "森田るい",
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "凪のお暇",
+          "author": "コナリミサト",
+          "publisher": "秋田書店",
+          "volumes": 12,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "ダンジョン飯",
+          "author": "九井諒子",
+          "publisher": "KADOKAWA",
+          "volumes": 14,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "不滅のあなたへ",
+          "author": "大今良時",
+          "publisher": "講談社",
+          "volumes": 25,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "ランウェイで笑って",
+          "author": "猪ノ谷言葉",
+          "publisher": "講談社",
+          "volumes": 22,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "とんがり帽子のアトリエ",
+          "author": "白浜鴎",
+          "publisher": "講談社",
+          "volumes": 16,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "メイドインアビス",
+          "author": "つくしあきひと",
+          "publisher": "竹書房",
+          "volumes": 13,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "映像研には手を出すな!",
+          "author": "大童澄瞳",
+          "publisher": "小学館",
+          "volumes": 10,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "映画大好きポンポさん",
+          "author": "杉谷庄吾【人間プラモ】",
+          "publisher": "KADOKAWA",
+          "volumes": 3,
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "約束のネバーランド",
+          "author": "出水ぽすか／白井カイウ",
+          "publisher": "集英社",
+          "volumes": 20,
+          "note": "11位"
+        },
+        {
+          "kind": "manga",
+          "title": "ゴールデンゴールド",
+          "author": "堀尾省太",
+          "publisher": "講談社",
+          "volumes": 9,
+          "note": "12位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2018",
+      "date": "2018",
+      "title": "2018年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "百年泥",
+          "author": "石井遊佳",
+          "publisher": "新潮社",
+          "pages": 172,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "おらおらでひとりいぐも",
+          "author": "若竹千佐子",
+          "publisher": "河出書房新社",
+          "pages": 191,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "送り火",
+          "author": "高橋弘希",
+          "publisher": "文藝春秋",
+          "pages": 166,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "銀河鉄道の父",
+          "author": "門井慶喜",
+          "publisher": "講談社",
+          "pages": 520,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "ファーストラヴ",
+          "author": "島本理生",
+          "publisher": "文藝春秋",
+          "pages": 367,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2018",
+      "date": "2018",
+      "title": "このマンガがすごい！2018",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "約束のネバーランド",
+          "author": "白井カイウ",
+          "publisher": "集英社",
+          "volumes": 20,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "マロニエ王国の七人の騎士",
+          "author": "岩本ナオ",
+          "publisher": "小学館",
+          "volumes": 11,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2017",
+      "date": "2017",
+      "title": "2017年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "蜜蜂と遠雷",
+          "author": "恩田陸",
+          "publisher": "幻冬舎",
+          "pages": 507,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "みかづき",
+          "author": "森絵都",
+          "publisher": "集英社",
+          "pages": 617,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "罪の声",
+          "author": "塩田武士",
+          "publisher": "講談社",
+          "pages": 535,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "ツバキ文具店",
+          "author": "小川糸",
+          "publisher": "幻冬舎",
+          "pages": 346,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "桜風堂ものがたり",
+          "author": "村山早紀",
+          "publisher": "PHP研究所",
+          "pages": 382,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "暗幕のゲルニカ",
+          "author": "原田マハ",
+          "publisher": "新潮社",
+          "pages": 510,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "i",
+          "author": "西加奈子",
+          "publisher": "ポプラ社",
+          "pages": 323,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "夜行",
+          "author": "森見登美彦",
+          "publisher": "小学館",
+          "pages": 299,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "コンビニ人間",
+          "author": "村田沙耶香",
+          "publisher": "文藝春秋",
+          "pages": 168,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "コーヒーが冷めないうちに",
+          "author": "川口俊和",
+          "publisher": "サンマーク出版",
+          "pages": 348,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2017",
+      "date": "2017",
+      "title": "マンガ大賞2017",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "響~小説家になる方法~",
+          "author": "柳本光晴",
+          "publisher": "小学館",
+          "volumes": 13,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "金の国 水の国",
+          "author": "岩本ナオ",
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "ダンジョン飯",
+          "author": "九井諒子",
+          "publisher": "KADOKAWA",
+          "volumes": 14,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "アオアシ",
+          "author": "小林有吾／上野直彦",
+          "publisher": "小学館",
+          "volumes": 40,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "波よ聞いてくれ",
+          "author": "沙村広明",
+          "publisher": "講談社",
+          "volumes": 13,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "約束のネバーランド",
+          "author": "出水ぽすか／白井カイウ",
+          "publisher": "集英社",
+          "volumes": 20,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "ゴールデンゴールド",
+          "author": "堀尾省太",
+          "publisher": "講談社",
+          "volumes": 9,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "ファイアパンチ",
+          "author": "藤本タツキ",
+          "publisher": "集英社",
+          "volumes": 8,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "ハイスコアガール",
+          "author": "押切蓮介",
+          "publisher": "スクウェア・エニックス",
+          "volumes": 10,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "からかい上手の高木さん",
+          "author": "山本崇一朗",
+          "publisher": "小学館",
+          "volumes": 20,
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "私の少年",
+          "author": "高野ひと深",
+          "publisher": "講談社",
+          "volumes": 9,
+          "note": "11位"
+        },
+        {
+          "kind": "manga",
+          "title": "東京タラレバ娘",
+          "author": "東村アキコ",
+          "publisher": "講談社",
+          "volumes": 9,
+          "note": "12位"
+        },
+        {
+          "kind": "manga",
+          "title": "空挺ドラゴンズ",
+          "author": "桑原太矩",
+          "publisher": "講談社",
+          "volumes": 22,
+          "note": "13位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2017",
+      "date": "2017",
+      "title": "2017年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "しんせかい",
+          "author": "山下澄人",
+          "publisher": "新潮社",
+          "pages": 178,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "影裏",
+          "author": "沼田真佑",
+          "publisher": "文藝春秋",
+          "pages": 169,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "蜜蜂と遠雷",
+          "author": "恩田陸",
+          "publisher": "幻冬舎",
+          "pages": 507,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "月の満ち欠け",
+          "author": "佐藤正午",
+          "publisher": "岩波書店",
+          "pages": 408,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2017",
+      "date": "2017",
+      "title": "このマンガがすごい！2017",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "中間管理録トネガワ",
+          "author": "萩原天晴／橋本智広／三好智樹／福本伸行",
+          "publisher": "講談社",
+          "volumes": 10,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "金の国 水の国",
+          "author": "岩本ナオ",
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2016",
+      "date": "2016",
+      "title": "2016年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "羊と鋼の森",
+          "author": "宮下奈都",
+          "publisher": "文藝春秋",
+          "pages": 274,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "君の膵臓をたべたい",
+          "author": "住野よる",
+          "publisher": "双葉社",
+          "pages": 325,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "世界の果てのこどもたち",
+          "author": "中脇初枝",
+          "publisher": "講談社",
+          "pages": 473,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "永い言い訳",
+          "author": "西川美和",
+          "publisher": "文藝春秋",
+          "pages": 341,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "朝が来る",
+          "author": "辻村深月",
+          "publisher": "文藝春秋",
+          "pages": 358,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "王とサーカス",
+          "author": "米澤穂信",
+          "publisher": "東京創元社",
+          "pages": 472,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "戦場のコックたち",
+          "author": "深緑野分",
+          "publisher": "東京創元社",
+          "pages": 542,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "流",
+          "author": "東山彰良",
+          "publisher": "講談社",
+          "pages": 497,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "教団X",
+          "author": "中村文則",
+          "publisher": "集英社",
+          "pages": 601,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "火花",
+          "author": "又吉直樹",
+          "publisher": "文藝春秋",
+          "pages": 180,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2016",
+      "date": "2016",
+      "title": "マンガ大賞2016",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ゴールデンカムイ",
+          "author": "野田サトル",
+          "publisher": "集英社",
+          "volumes": 31,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "ダンジョン飯",
+          "author": "九井諒子",
+          "publisher": "KADOKAWA",
+          "volumes": 14,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "BLUE GIANT",
+          "author": "石塚真一",
+          "publisher": "小学館",
+          "volumes": 10,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "僕だけがいない街",
+          "author": "三部けい",
+          "publisher": "KADOKAWA",
+          "volumes": 9,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "百万畳ラビリンス",
+          "author": "たかみち",
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "波よ聞いてくれ",
+          "author": "沙村広明",
+          "publisher": "講談社",
+          "volumes": 13,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "恋は雨上がりのように",
+          "author": "眉月じゅん",
+          "publisher": "小学館",
+          "volumes": 10,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "町田くんの世界",
+          "author": "安藤ゆき",
+          "publisher": "集英社",
+          "volumes": 7,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "東京タラレバ娘",
+          "author": "東村アキコ",
+          "publisher": "講談社",
+          "volumes": 9,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "岡崎に捧ぐ",
+          "author": "山本さほ",
+          "publisher": "小学館",
+          "volumes": 5,
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "とんかつDJアゲ太郎",
+          "author": "イーピャオ／小山ゆうじろう",
+          "publisher": "集英社",
+          "volumes": 11,
+          "note": "11位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2016",
+      "date": "2016",
+      "title": "2016年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "死んでいない者",
+          "author": "滝口悠生",
+          "publisher": "文藝春秋",
+          "pages": 220,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "異類婚姻譚",
+          "author": "本谷有希子",
+          "publisher": "講談社",
+          "pages": 180,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "コンビニ人間",
+          "author": "村田沙耶香",
+          "publisher": "文藝春秋",
+          "pages": 168,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "つまをめとらば",
+          "author": "青山文平",
+          "publisher": "文藝春秋",
+          "pages": 274,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "海の見える理髪店",
+          "author": "荻原浩",
+          "publisher": "集英社",
+          "pages": 262,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2016",
+      "date": "2016",
+      "title": "このマンガがすごい！2016",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ダンジョン飯",
+          "author": "九井諒子",
+          "publisher": "KADOKAWA",
+          "volumes": 14,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "ヲタクに恋は難しい",
+          "author": "ふじた",
+          "publisher": "一迅社",
+          "volumes": 11,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2015",
+      "date": "2015",
+      "title": "2015年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "鹿の王",
+          "author": "上橋菜穂子",
+          "publisher": "KADOKAWA",
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "サラバ!",
+          "author": "西加奈子",
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "ハケンアニメ!",
+          "author": "辻村深月",
+          "publisher": "マガジンハウス",
+          "pages": 622,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "本屋さんのダイアナ",
+          "author": "柚木麻子",
+          "publisher": "新潮社",
+          "pages": 386,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "土漠の花",
+          "author": "月村了衛",
+          "publisher": "幻冬舎",
+          "pages": 406,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "怒り",
+          "author": "吉田修一",
+          "publisher": "河出書房新社",
+          "pages": 269,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "満願",
+          "author": "米澤穂信",
+          "publisher": "新潮社",
+          "pages": 422,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "キャプテンサンダーボルト",
+          "author": "阿部和重・伊坂幸太郎",
+          "publisher": "新潮社",
+          "pages": 686,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "アイネクライネナハトムジーク",
+          "author": "伊坂幸太郎",
+          "publisher": "幻冬舎",
+          "pages": 341,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "億男",
+          "author": "川村元気",
+          "publisher": "文藝春秋",
+          "pages": 243,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2015",
+      "date": "2015",
+      "title": "マンガ大賞2015",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "かくかくしかじか",
+          "author": "東村アキコ",
+          "publisher": "集英社",
+          "volumes": 5,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "子供はわかってあげない",
+          "author": "田島列島",
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "聲の形",
+          "author": "大今良時",
+          "publisher": "講談社",
+          "volumes": 7,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "僕だけがいない街",
+          "author": "三部けい",
+          "publisher": "KADOKAWA",
+          "volumes": 9,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "BLUE GIANT",
+          "author": "石塚真一",
+          "publisher": "小学館",
+          "volumes": 10,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "ボールルームへようこそ",
+          "author": "竹内友",
+          "publisher": "講談社",
+          "volumes": 12,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "イノサン",
+          "author": "坂本眞一",
+          "publisher": "集英社",
+          "volumes": 9,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "僕のヒーローアカデミア",
+          "author": "堀越耕平",
+          "publisher": "集英社",
+          "volumes": 42,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "王様達のヴァイキング",
+          "author": "さだやす／深見真",
+          "publisher": "小学館",
+          "volumes": 19,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "累 -かさね-",
+          "author": "松浦だるま",
+          "publisher": "講談社",
+          "volumes": 13,
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "月刊少女野崎くん",
+          "author": "椿いづみ",
+          "publisher": "スクウェア・エニックス",
+          "volumes": 18,
+          "note": "11位"
+        },
+        {
+          "kind": "manga",
+          "title": "魔法使いの嫁",
+          "author": "ヤマザキコレ",
+          "publisher": "マッグガーデン",
+          "volumes": 24,
+          "note": "12位"
+        },
+        {
+          "kind": "manga",
+          "title": "宝石の国",
+          "author": "市川春子",
+          "publisher": "講談社",
+          "volumes": 13,
+          "note": "13位"
+        },
+        {
+          "kind": "manga",
+          "title": "ドミトリーともきんす",
+          "author": "高野文子",
+          "publisher": "中央公論新社",
+          "volumes": 1,
+          "note": "14位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2015",
+      "date": "2015",
+      "title": "2015年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "九年前の祈り",
+          "author": "小野正嗣",
+          "publisher": "講談社",
+          "pages": 248,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "スクラップ・アンド・ビルド",
+          "author": "羽田圭介",
+          "publisher": "文藝春秋",
+          "pages": 150,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "火花",
+          "author": "又吉直樹",
+          "publisher": "文藝春秋",
+          "pages": 180,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "サラバ!",
+          "author": "西加奈子",
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "流",
+          "author": "東山彰良",
+          "publisher": "講談社",
+          "pages": 497,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2015",
+      "date": "2015",
+      "title": "このマンガがすごい！2015",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "聲の形",
+          "author": "大今良時",
+          "publisher": "講談社",
+          "volumes": 7,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "ちーちゃんはちょっと足りない",
+          "author": "阿部共実",
+          "publisher": "秋田書店",
+          "volumes": 1,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2014",
+      "date": "2014",
+      "title": "2014年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "村上海賊の娘",
+          "author": "和田竜",
+          "publisher": "新潮社",
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "昨夜のカレー、明日のパン",
+          "author": "木皿泉",
+          "publisher": "河出書房新社",
+          "pages": 289,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "島はぼくらと",
+          "author": "辻村深月",
+          "publisher": "講談社",
+          "pages": 424,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "さようなら、オレンジ",
+          "author": "岩城けい",
+          "publisher": "筑摩書房",
+          "pages": 172,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "とっぴんぱらりの風太郎",
+          "author": "万城目学",
+          "publisher": "文藝春秋",
+          "pages": 746,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "教場",
+          "author": "長岡弘樹",
+          "publisher": "小学館",
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "ランチのアッコちゃん",
+          "author": "柚木麻子",
+          "publisher": "双葉社",
+          "pages": 199,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "想像ラジオ",
+          "author": "いとうせいこう",
+          "publisher": "河出書房新社",
+          "pages": 215,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "聖なる怠け者の冒険",
+          "author": "森見登美彦",
+          "publisher": "朝日新聞出版",
+          "pages": 367,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "去年の冬、きみと別れ",
+          "author": "中村文則",
+          "publisher": "幻冬舎",
+          "pages": 195,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2014",
+      "date": "2014",
+      "title": "マンガ大賞2014",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "乙嫁語り",
+          "author": "森薫",
+          "publisher": "KADOKAWA",
+          "volumes": 15,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "僕だけがいない街",
+          "author": "三部けい",
+          "publisher": "KADOKAWA",
+          "volumes": 9,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "さよならタマちゃん",
+          "author": "武田一義",
+          "publisher": "講談社",
+          "volumes": 1,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "七つの大罪",
+          "author": "鈴木央",
+          "publisher": "講談社",
+          "volumes": 41,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "ひきだしにテラリウム",
+          "author": "九井諒子",
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "重版出来",
+          "author": "松田奈緒子",
+          "publisher": "小学館",
+          "volumes": 20,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "ワンパンマン",
+          "author": "ONE／村田雄介",
+          "publisher": "集英社",
+          "volumes": 37,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "亜人",
+          "author": "桜井画門",
+          "publisher": "講談社",
+          "volumes": 17,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "足摺り水族館",
+          "author": "panpanya",
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "坂本ですが?",
+          "author": "佐野菜見",
+          "publisher": "KADOKAWA",
+          "volumes": 4,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2014",
+      "date": "2014",
+      "title": "2014年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "穴",
+          "author": "小山田浩子",
+          "publisher": "新潮社",
+          "pages": 207,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "春の庭",
+          "author": "柴崎友香",
+          "publisher": "文藝春秋",
+          "pages": 245,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "恋歌",
+          "author": "朝井まかて",
+          "publisher": "講談社",
+          "pages": 378,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "昭和の犬",
+          "author": "姫野カオルコ",
+          "publisher": "幻冬舎",
+          "pages": 351,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "破門",
+          "author": "黒川博行",
+          "publisher": "KADOKAWA",
+          "pages": 566,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2014",
+      "date": "2014",
+      "title": "このマンガがすごい！2014",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "暗殺教室",
+          "author": "松井優征",
+          "publisher": "集英社",
+          "volumes": 21,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "さよならソルシエ",
+          "author": "穂積",
+          "publisher": "小学館",
+          "volumes": 2,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2013",
+      "date": "2013",
+      "title": "2013年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "海賊とよばれた男",
+          "author": "百田尚樹",
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "64",
+          "author": "横山秀夫",
+          "publisher": "文藝春秋",
+          "pages": 647,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "楽園のカンヴァス",
+          "author": "原田マハ",
+          "publisher": "新潮社",
+          "pages": 440,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "きみはいい子",
+          "author": "中脇初枝",
+          "publisher": "ポプラ社",
+          "pages": 329,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "ふくわらい",
+          "author": "西加奈子",
+          "publisher": "朝日新聞出版",
+          "pages": 299,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "晴天の迷いクジラ",
+          "author": "窪美澄",
+          "publisher": "新潮社",
+          "pages": 430,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "ソロモンの偽証",
+          "author": "宮部みゆき",
+          "publisher": "新潮社",
+          "pages": 596,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "世界から猫が消えたなら",
+          "author": "川村元気",
+          "publisher": "小学館",
+          "pages": 221,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "百年法",
+          "author": "山田宗樹",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "屍者の帝国",
+          "author": "伊藤計劃、円城塔",
+          "publisher": "河出書房新社",
+          "pages": 525,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2013",
+      "date": "2013",
+      "title": "マンガ大賞2013",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "海街diary",
+          "author": "吉田秋生",
+          "publisher": "小学館",
+          "volumes": 9,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "乙嫁語り",
+          "author": "森薫",
+          "publisher": "KADOKAWA",
+          "volumes": 15,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "ボールルームへようこそ",
+          "author": "竹内友",
+          "publisher": "講談社",
+          "volumes": 12,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "ハイスコアガール",
+          "author": "押切蓮介",
+          "publisher": "スクウェア・エニックス",
+          "volumes": 10,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "俺物語!!",
+          "author": "河原和音／アルコ",
+          "publisher": "集英社",
+          "volumes": 14,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "暗殺教室",
+          "author": "松井優征",
+          "publisher": "集英社",
+          "volumes": 21,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "九井諒子作品集 竜のかわいい七つの子",
+          "author": "九井諒子",
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "人間仮免中",
+          "author": "卯月妙子",
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "テラフォーマーズ",
+          "author": "貴家悠／橘賢一",
+          "publisher": "集英社",
+          "volumes": 24,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "山賊ダイアリー",
+          "author": "岡本健太郎",
+          "publisher": "講談社",
+          "volumes": 7,
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "ぼくらのフンカ祭",
+          "author": "真造圭伍",
+          "note": "11位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2013",
+      "date": "2013",
+      "title": "2013年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "abさんご",
+          "author": "黒田夏子",
+          "publisher": "文藝春秋",
+          "pages": 47,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "爪と目",
+          "author": "藤野可織",
+          "publisher": "新潮社",
+          "pages": 173,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "何者",
+          "author": "朝井リョウ",
+          "publisher": "新潮社",
+          "pages": 346,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "等伯",
+          "author": "安部龍太郎",
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "ホテルローヤル",
+          "author": "桜木紫乃",
+          "publisher": "集英社",
+          "pages": 217,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2013",
+      "date": "2013",
+      "title": "このマンガがすごい！2013",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "テラフォーマーズ",
+          "author": "橘賢一／貴家悠",
+          "publisher": "集英社",
+          "volumes": 24,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "俺物語!!",
+          "author": "河原和音／アルコ",
+          "publisher": "集英社",
+          "volumes": 14,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2012",
+      "date": "2012",
+      "title": "2012年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "舟を編む",
+          "author": "三浦しをん",
+          "publisher": "光文社",
+          "pages": 347,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "ジェノサイド",
+          "author": "高野和明",
+          "publisher": "角川書店",
+          "pages": 590,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "ピエタ",
+          "author": "大島真寿美",
+          "publisher": "ポプラ社",
+          "pages": 385,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "くちびるに歌を",
+          "author": "中田永一",
+          "publisher": "小学館",
+          "pages": 316,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "人質の朗読会",
+          "author": "小川洋子",
+          "publisher": "中央公論新社",
+          "pages": 246,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "ユリゴコロ",
+          "author": "沼田まほかる",
+          "publisher": "双葉社",
+          "pages": 330,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "誰かが足りない",
+          "author": "宮下奈都",
+          "publisher": "双葉社",
+          "pages": 191,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "ビブリア古書堂の事件手帖 ―栞子さんと奇妙な客人たち",
+          "author": "三上延",
+          "publisher": "KADOKAWA",
+          "pages": 309,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "偉大なる、しゅららぼん",
+          "author": "万城目学",
+          "publisher": "集英社",
+          "pages": 582,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "プリズム",
+          "author": "百田尚樹",
+          "publisher": "幻冬舎",
+          "pages": 398,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2012",
+      "date": "2012",
+      "title": "マンガ大賞2012",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "銀の匙 Silver Spoon",
+          "author": "荒川弘",
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "大東京トイボックス",
+          "author": "うめ",
+          "publisher": "幻冬舎コミックス",
+          "volumes": 9,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "信長協奏曲",
+          "author": "石井あゆみ",
+          "publisher": "小学館",
+          "volumes": 23,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "昭和元禄落語心中",
+          "author": "雲田はるこ",
+          "publisher": "講談社",
+          "volumes": 10,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "25時のバカンス 市川春子作品集II",
+          "author": "市川春子",
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "ドリフターズ",
+          "author": "平野耕太",
+          "publisher": "少年画報社",
+          "volumes": 7,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "グラゼニ",
+          "author": "森高夕次／アダチケイジ",
+          "publisher": "講談社",
+          "volumes": 17,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "アイアムアヒーロー",
+          "author": "花沢健吾",
+          "publisher": "小学館",
+          "volumes": 22,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "外天楼",
+          "author": "石黒正数",
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "高杉さん家のおべんとう",
+          "author": "柳原望",
+          "publisher": "メディアファクトリー",
+          "volumes": 10,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "日々ロック",
+          "author": "榎屋克優",
+          "publisher": "集英社",
+          "volumes": 6,
+          "note": "11位"
+        },
+        {
+          "kind": "manga",
+          "title": "惡の華",
+          "author": "押見修造",
+          "publisher": "講談社",
+          "volumes": 11,
+          "note": "12位"
+        },
+        {
+          "kind": "manga",
+          "title": "四月は君の嘘",
+          "author": "新川直司",
+          "publisher": "講談社",
+          "volumes": 11,
+          "note": "13位"
+        },
+        {
+          "kind": "manga",
+          "title": "鬼灯の冷徹",
+          "author": "江口夏実",
+          "publisher": "講談社",
+          "volumes": 31,
+          "note": "14位"
+        },
+        {
+          "kind": "manga",
+          "title": "となりの関くん",
+          "author": "森繁拓真",
+          "publisher": "KADOKAWA",
+          "volumes": 10,
+          "note": "15位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2012",
+      "date": "2012",
+      "title": "2012年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "道化師の蝶",
+          "author": "円城塔",
+          "publisher": "講談社",
+          "pages": 186,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "共喰い",
+          "author": "田中慎弥",
+          "publisher": "集英社",
+          "pages": 205,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "冥土めぐり",
+          "author": "鹿島田真希",
+          "publisher": "河出書房新社",
+          "pages": 171,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "蜩ノ記",
+          "author": "葉室麟",
+          "publisher": "祥伝社",
+          "pages": 404,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "鍵のない夢を見る",
+          "author": "辻村深月",
+          "publisher": "文藝春秋",
+          "pages": 269,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2012",
+      "date": "2012",
+      "title": "このマンガがすごい！2012",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ブラック・ジャック創作秘話〜手塚治虫の仕事場から〜",
+          "author": "吉本浩二／宮崎克",
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "花のズボラ飯",
+          "author": "水沢悦子／久住昌之",
+          "publisher": "秋田書店",
+          "volumes": 3,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2011",
+      "date": "2011",
+      "title": "2011年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "謎解きはディナーのあとで",
+          "author": "東川篤哉",
+          "publisher": "小学館",
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "ふがいない僕は空を見た",
+          "author": "窪美澄",
+          "publisher": "新潮社",
+          "pages": 318,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "ペンギン・ハイウェイ",
+          "author": "森見登美彦",
+          "publisher": "KADOKAWA",
+          "pages": 365,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "錨を上げよ",
+          "author": "百田尚樹",
+          "publisher": "幻冬舎",
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "シューマンの指",
+          "author": "奥泉光",
+          "publisher": "講談社",
+          "pages": 365,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "叫びと祈り",
+          "author": "梓崎優",
+          "publisher": "東京創元社",
+          "pages": 334,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "悪の教典",
+          "author": "貴志祐介",
+          "publisher": "文藝春秋",
+          "pages": 669,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "神様のカルテ2",
+          "author": "夏川草介",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "キケン",
+          "author": "有川浩",
+          "publisher": "KADOKAWA",
+          "pages": 271,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "ストーリー・セラー",
+          "author": "有川浩",
+          "publisher": "幻冬舎",
+          "pages": 265,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2011",
+      "date": "2011",
+      "title": "マンガ大賞2011",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "3月のライオン",
+          "author": "羽海野チカ",
+          "publisher": "白泉社",
+          "volumes": 18,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "乙嫁語り",
+          "author": "森薫",
+          "publisher": "KADOKAWA",
+          "volumes": 15,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "アイアムアヒーロー",
+          "author": "花沢健吾",
+          "publisher": "小学館",
+          "volumes": 22,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "花のズボラ飯",
+          "author": "久住昌之／水沢悦子",
+          "publisher": "秋田書店",
+          "volumes": 3,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "失恋ショコラティエ",
+          "author": "水城せとな",
+          "publisher": "小学館",
+          "volumes": 9,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "さよならもいわずに",
+          "author": "上野顕太郎",
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "進撃の巨人",
+          "author": "諌山創",
+          "publisher": "講談社",
+          "volumes": 34,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "刻刻",
+          "author": "堀尾省太",
+          "publisher": "講談社",
+          "volumes": 8,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "ましろのおと",
+          "author": "羅川真里茂",
+          "publisher": "講談社",
+          "volumes": 31,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "ドリフターズ",
+          "author": "平野耕太",
+          "publisher": "少年画報社",
+          "volumes": 7,
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "ドントクライ、ガール",
+          "author": "ヤマシタトモコ",
+          "note": "11位"
+        },
+        {
+          "kind": "manga",
+          "title": "主に泣いてます",
+          "author": "東村アキコ",
+          "publisher": "講談社",
+          "volumes": 10,
+          "note": "12位"
+        },
+        {
+          "kind": "manga",
+          "title": "SARU",
+          "author": "五十嵐大介",
+          "note": "13位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2011",
+      "date": "2011",
+      "title": "2011年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "きことわ",
+          "author": "朝吹真理子",
+          "publisher": "新潮社",
+          "pages": 134,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "苦役列車",
+          "author": "西村賢太",
+          "publisher": "新潮社",
+          "pages": 170,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "漂砂のうたう",
+          "author": "木内昇",
+          "publisher": "集英社",
+          "pages": 331,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "月と蟹",
+          "author": "道尾秀介",
+          "publisher": "文藝春秋",
+          "pages": 358,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "下町ロケット",
+          "author": "池井戸潤",
+          "publisher": "文藝春秋",
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2011",
+      "date": "2011",
+      "title": "このマンガがすごい！2011",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "進撃の巨人",
+          "author": "諫山創",
+          "publisher": "講談社",
+          "volumes": 34,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "HER",
+          "author": "ヤマシタトモコ",
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2010",
+      "date": "2010",
+      "title": "2010年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "天地明察",
+          "author": "冲方丁",
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "神様のカルテ",
+          "author": "夏川草介",
+          "publisher": "小学館",
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "横道世之介",
+          "author": "吉田修一",
+          "publisher": "中央公論新社",
+          "pages": 409,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "神去なあなあ日常",
+          "author": "三浦しをん",
+          "publisher": "徳間書店",
+          "pages": 355,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "猫を抱いて象と泳ぐ",
+          "author": "小川洋子",
+          "publisher": "文藝春秋",
+          "pages": 373,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "ヘヴン",
+          "author": "川上未映子",
+          "publisher": "講談社",
+          "pages": 311,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "船に乗れ!",
+          "author": "藤谷治",
+          "publisher": "小学館",
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "植物図鑑",
+          "author": "有川浩",
+          "publisher": "幻冬舎",
+          "pages": 425,
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "新参者",
+          "author": "東野圭吾",
+          "publisher": "講談社",
+          "pages": 400,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "1Q84",
+          "author": "村上春樹",
+          "publisher": "新潮社",
+          "pages": 391,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2010",
+      "date": "2010",
+      "title": "マンガ大賞2010",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "テルマエ・ロマエ",
+          "author": "ヤマザキマリ",
+          "publisher": "エンターブレイン",
+          "volumes": 6,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "宇宙兄弟",
+          "author": "小山宙哉",
+          "publisher": "講談社",
+          "volumes": 46,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "バクマン。",
+          "author": "大場つぐみ／小畑健",
+          "publisher": "集英社",
+          "volumes": 20,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "アイアムアヒーロー",
+          "author": "花沢健吾",
+          "publisher": "小学館",
+          "volumes": 22,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "娚の一生",
+          "author": "西炯子",
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "虫と歌 市川春子作品集",
+          "author": "市川春子",
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "海月姫",
+          "author": "東村アキコ",
+          "publisher": "講談社",
+          "volumes": 17,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "モテキ",
+          "author": "久保ミツロウ",
+          "publisher": "講談社",
+          "volumes": 3,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "高校球児 ザワさん",
+          "author": "三島衛里子",
+          "publisher": "小学館",
+          "volumes": 11,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "アオイホノオ",
+          "author": "島本和彦",
+          "publisher": "小学館",
+          "volumes": 33,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2010",
+      "date": "2010",
+      "title": "2010年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "乙女の密告",
+          "author": "赤染晶子",
+          "publisher": "新潮社",
+          "pages": 102,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "廃墟に乞う",
+          "author": "佐々木譲",
+          "publisher": "文藝春秋",
+          "pages": 366,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "ほかならぬ人へ",
+          "author": "白石一文",
+          "publisher": "祥伝社",
+          "pages": 318,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "小さいおうち",
+          "author": "中島京子",
+          "publisher": "文藝春秋",
+          "pages": 348,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2010",
+      "date": "2010",
+      "title": "このマンガがすごい！2010",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "バクマン。",
+          "author": "大場つぐみ／小畑健",
+          "publisher": "集英社",
+          "volumes": 20,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "ちはやふる",
+          "author": "末次由紀",
+          "publisher": "講談社",
+          "volumes": 50,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2009",
+      "date": "2009",
+      "title": "2009年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "告白",
+          "author": "湊かなえ",
+          "publisher": "双葉社",
+          "pages": 317,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "のぼうの城",
+          "author": "和田竜",
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "ジョーカー・ゲーム",
+          "author": "柳広司",
+          "publisher": "角川書店",
+          "pages": 280,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "テンペスト",
+          "author": "池上永一",
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "ボックス!",
+          "author": "百田尚樹",
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "新世界より",
+          "author": "貴志祐介",
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "出星前夜",
+          "author": "飯嶋和一",
+          "publisher": "小学館",
+          "pages": 714,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "悼む人",
+          "author": "天童荒太",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "流星の絆",
+          "author": "東野圭吾",
+          "publisher": "講談社",
+          "pages": 617,
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "モダンタイムス",
+          "author": "伊坂幸太郎",
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2009",
+      "date": "2009",
+      "title": "マンガ大賞2009",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ちはやふる",
+          "author": "末次由紀",
+          "publisher": "講談社",
+          "volumes": 50,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "宇宙兄弟",
+          "author": "小山宙哉",
+          "publisher": "講談社",
+          "volumes": 46,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "3月のライオン",
+          "author": "羽海野チカ",
+          "publisher": "白泉社",
+          "volumes": 18,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "深夜食堂",
+          "author": "安倍夜郎",
+          "publisher": "小学館",
+          "volumes": 30,
+          "note": "4位"
+        },
+        {
+          "kind": "manga",
+          "title": "青春少年マガジン1978〜1983",
+          "author": "小林まこと",
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "聖☆おにいさん",
+          "author": "中村光",
+          "publisher": "講談社",
+          "volumes": 22,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "とめはねっ!",
+          "author": "河合克敏",
+          "publisher": "小学館",
+          "volumes": 14,
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "ママはテンパリスト",
+          "author": "東村アキコ",
+          "publisher": "集英社",
+          "volumes": 4,
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "トリコ",
+          "author": "島袋光年",
+          "publisher": "集英社",
+          "volumes": 43,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "よんでますよ、アザゼルさん。",
+          "author": "久保保久",
+          "publisher": "講談社",
+          "volumes": 16,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2009",
+      "date": "2009",
+      "title": "2009年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "ポトスライムの舟",
+          "author": "津村記久子",
+          "publisher": "講談社",
+          "pages": 198,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "終の住処",
+          "author": "磯崎憲一郎",
+          "publisher": "新潮社",
+          "pages": 121,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "悼む人",
+          "author": "天童荒太",
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "利休にたずねよ",
+          "author": "山本兼一",
+          "publisher": "文藝春秋",
+          "pages": 475,
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "鷺と雪",
+          "author": "北村薫",
+          "publisher": "文藝春秋",
+          "pages": 285,
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2009",
+      "date": "2009",
+      "title": "このマンガがすごい！2009",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "聖☆おにいさん",
+          "author": "中村光",
+          "publisher": "講談社",
+          "volumes": 22,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "坂道のアポロン",
+          "author": "小玉ユキ",
+          "publisher": "小学館",
+          "volumes": 9,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2008",
+      "date": "2008",
+      "title": "2008年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "ゴールデンスランバー",
+          "author": "伊坂幸太郎",
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "サクリファイス",
+          "author": "近藤史恵",
+          "publisher": "宝島社",
+          "pages": 333,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "有頂天家族",
+          "author": "森見登美彦",
+          "publisher": "幻冬舎",
+          "pages": 539,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "悪人",
+          "author": "吉田修一",
+          "publisher": "文藝春秋",
+          "pages": 456,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "映画篇",
+          "author": "金城一紀",
+          "publisher": "KADOKAWA",
+          "pages": 487,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "八日目の蝉",
+          "author": "角田光代",
+          "publisher": "中央公論新社",
+          "pages": 376,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "赤朽葉家の伝説",
+          "author": "桜庭一樹",
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "鹿男あをによし",
+          "author": "万城目学",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "私の男",
+          "author": "桜庭一樹",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "カシオペアの丘で",
+          "author": "重松清",
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "manga-taisho-2008",
+      "date": "2008",
+      "title": "マンガ大賞2008",
+      "lead": "書店員などが「人に薦めたい」漫画を選ぶ賞",
+      "series": "マンガ大賞",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "岳",
+          "author": "石塚真一",
+          "publisher": "小学館",
+          "volumes": 18,
+          "note": "大賞"
+        },
+        {
+          "kind": "manga",
+          "title": "よつばと!",
+          "author": "あずまきよひこ",
+          "publisher": "KADOKAWA",
+          "volumes": 16,
+          "note": "2位"
+        },
+        {
+          "kind": "manga",
+          "title": "海街diary",
+          "author": "吉田秋生",
+          "publisher": "小学館",
+          "volumes": 9,
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "フラワー・オブ・ライフ",
+          "author": "よしながふみ",
+          "note": "3位"
+        },
+        {
+          "kind": "manga",
+          "title": "君に届け",
+          "author": "椎名軽穂",
+          "publisher": "集英社",
+          "volumes": 30,
+          "note": "5位"
+        },
+        {
+          "kind": "manga",
+          "title": "大奥",
+          "author": "よしながふみ",
+          "publisher": "白泉社",
+          "volumes": 19,
+          "note": "6位"
+        },
+        {
+          "kind": "manga",
+          "title": "皇国の守護者",
+          "author": "佐藤大輔／伊藤悠",
+          "note": "7位"
+        },
+        {
+          "kind": "manga",
+          "title": "とめはねっ! 鈴里高校書道部",
+          "author": "河合克敏",
+          "note": "8位"
+        },
+        {
+          "kind": "manga",
+          "title": "もやしもん",
+          "author": "石川雅之",
+          "publisher": "講談社",
+          "volumes": 13,
+          "note": "9位"
+        },
+        {
+          "kind": "manga",
+          "title": "夏目友人帳",
+          "author": "緑川ゆき",
+          "publisher": "白泉社",
+          "volumes": 33,
+          "note": "10位"
+        },
+        {
+          "kind": "manga",
+          "title": "ひまわりっ -健一レジェンド-",
+          "author": "東村アキコ",
+          "note": "11位"
+        },
+        {
+          "kind": "manga",
+          "title": "きのう何食べた?",
+          "author": "よしながふみ",
+          "publisher": "講談社",
+          "volumes": 25,
+          "note": "12位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2008",
+      "date": "2008",
+      "title": "2008年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "乳と卵",
+          "author": "川上未映子",
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "時が滲む朝",
+          "author": "楊逸",
+          "publisher": "文藝春秋",
+          "pages": 164,
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "私の男",
+          "author": "桜庭一樹",
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "切羽へ",
+          "author": "井上荒野",
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2008",
+      "date": "2008",
+      "title": "このマンガがすごい！2008",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "ハチワンダイバー",
+          "author": "柴田ヨクサル",
+          "publisher": "集英社",
+          "volumes": 35,
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "君に届け",
+          "author": "椎名軽穂",
+          "publisher": "集英社",
+          "volumes": 30,
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2007",
+      "date": "2007",
+      "title": "2007年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "一瞬の風になれ",
+          "author": "佐藤多佳子",
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "夜は短し歩けよ乙女",
+          "author": "森見登美彦",
+          "publisher": "KADOKAWA",
+          "pages": 317,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "風が強く吹いている",
+          "author": "三浦しをん",
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "終末のフール",
+          "author": "伊坂幸太郎",
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "図書館戦争",
+          "author": "有川浩",
+          "publisher": "角川書店",
+          "pages": 398,
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "鴨川ホルモー",
+          "author": "万城目学",
+          "publisher": "KADOKAWA",
+          "pages": 298,
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "ミーナの行進",
+          "author": "小川洋子",
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "陰日向に咲く",
+          "author": "劇団ひとり",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "失われた町",
+          "author": "三崎亜記",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "名もなき毒",
+          "author": "宮部みゆき",
+          "publisher": "文藝春秋",
+          "pages": 607,
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2007",
+      "date": "2007",
+      "title": "2007年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "ひとり日和",
+          "author": "青山七恵",
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "アサッテの人",
+          "author": "諏訪哲史",
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "吉原手引草",
+          "author": "松井今朝子",
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2007",
+      "date": "2007",
+      "title": "このマンガがすごい！2007",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "デトロイト・メタル・シティ",
+          "author": "若杉公徳",
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "ハチミツとクローバー",
+          "author": "羽海野チカ",
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2006",
+      "date": "2006",
+      "title": "2006年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "東京タワー オカンとボクと、 時々、オトン",
+          "author": "リリー・フランキー",
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "サウスバウンド",
+          "author": "奥田英朗",
+          "publisher": "講談社",
+          "pages": 665,
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "死神の精度",
+          "author": "伊坂幸太郎",
+          "publisher": "文藝春秋",
+          "pages": 345,
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "容疑者Xの献身",
+          "author": "東野圭吾",
+          "publisher": "文藝春秋",
+          "pages": 394,
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "その日のまえに",
+          "author": "重松清",
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "ナラタージュ",
+          "author": "島本理生",
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "告白",
+          "author": "町田康",
+          "publisher": "双葉社",
+          "pages": 317,
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "ベルカ、吠えないのか?",
+          "author": "古川日出男",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "県庁の星",
+          "author": "桂望実",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "さくら",
+          "author": "西加奈子",
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-naoki-y2006",
+      "date": "2006",
+      "title": "2006年の芥川賞・直木賞",
+      "lead": "純文学の芥川賞と大衆文学の直木賞（その年に発表された受賞作）",
+      "series": "芥川賞・直木賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "八月の路上に捨てる",
+          "author": "伊藤たかみ",
+          "note": "芥川賞"
+        },
+        {
+          "kind": "book",
+          "title": "まほろ駅前多田便利軒",
+          "author": "三浦しをん",
+          "note": "直木賞"
+        },
+        {
+          "kind": "book",
+          "title": "風に舞いあがるビニールシート",
+          "author": "森絵都",
+          "note": "直木賞"
+        }
+      ]
+    },
+    {
+      "id": "konomanga-2006",
+      "date": "2006",
+      "title": "このマンガがすごい！2006",
+      "lead": "宝島社のムックが選ぶ、その年の漫画（各編の1位）",
+      "series": "このマンガがすごい！",
+      "items": [
+        {
+          "kind": "manga",
+          "title": "PLUTO",
+          "author": "浦沢直樹",
+          "note": "オトコ編 1位"
+        },
+        {
+          "kind": "manga",
+          "title": "ハチミツとクローバー",
+          "author": "羽海野チカ",
+          "note": "オンナ編 1位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2005",
+      "date": "2005",
+      "title": "2005年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "夜のピクニック",
+          "author": "恩田陸",
+          "publisher": "新潮社",
+          "pages": 455,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "明日の記憶",
+          "author": "荻原浩",
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "家守綺譚",
+          "author": "梨木香歩",
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "袋小路の男",
+          "author": "絲山秋子",
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "チルドレン",
+          "author": "伊坂幸太郎",
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "対岸の彼女",
+          "author": "角田光代",
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "犯人に告ぐ",
+          "author": "雫井脩介",
+          "publisher": "双葉社",
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "黄金旅風",
+          "author": "飯嶋和一",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "私が語りはじめた彼は",
+          "author": "三浦しをん",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "そのときは彼によろしく",
+          "author": "市川拓司",
+          "note": "10位"
+        }
+      ]
+    },
+    {
+      "id": "honya-taisho-2004",
+      "date": "2004",
+      "title": "2004年本屋大賞",
+      "lead": "全国の書店員が選ぶ「いちばん！売りたい本」",
+      "series": "本屋大賞",
+      "items": [
+        {
+          "kind": "book",
+          "title": "博士の愛した数式",
+          "author": "小川洋子",
+          "publisher": "新潮社",
+          "pages": 291,
+          "note": "大賞"
+        },
+        {
+          "kind": "book",
+          "title": "クライマーズ・ハイ",
+          "author": "横山秀夫",
+          "note": "2位"
+        },
+        {
+          "kind": "book",
+          "title": "アヒルと鴨のコインロッカー",
+          "author": "伊坂幸太郎",
+          "note": "3位"
+        },
+        {
+          "kind": "book",
+          "title": "永遠の出口",
+          "author": "森絵都",
+          "note": "4位"
+        },
+        {
+          "kind": "book",
+          "title": "重力ピエロ",
+          "author": "伊坂幸太郎",
+          "note": "5位"
+        },
+        {
+          "kind": "book",
+          "title": "4TEEN",
+          "author": "石田衣良",
+          "note": "6位"
+        },
+        {
+          "kind": "book",
+          "title": "デッドエンドの思い出",
+          "author": "よしもとばなな",
+          "note": "7位"
+        },
+        {
+          "kind": "book",
+          "title": "終戦のローレライ",
+          "author": "福井晴敏",
+          "note": "8位"
+        },
+        {
+          "kind": "book",
+          "title": "陰摩羅鬼の瑕",
+          "author": "京極夏彦",
+          "note": "9位"
+        },
+        {
+          "kind": "book",
+          "title": "ららら科學の子",
+          "author": "矢作俊彦",
+          "note": "10位"
         }
       ]
     }
