@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30",
+ "updatedAt": "2026-10-16",
  "services": [
   {
    "id": "amazon-prime",
@@ -2808,6 +2808,27 @@
    "billingType": "fixed",
    "plans": [
     {
+     "name": "Plus",
+     "amount": 8,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "Premium",
+     "amount": 30,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "Super",
+     "amount": 100,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
      "name": "Pro",
      "amount": 20,
      "cycle": "monthly",
@@ -2826,7 +2847,7 @@
      "currency": "USD"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-10-16"
   },
   {
    "id": "midjourney",
@@ -4843,13 +4864,21 @@
      "name": "マンション（2年自動更新）",
      "amount": 4180,
      "cycle": "monthly",
-     "currency": "JPY"
+     "currency": "JPY",
+     "upcoming": {
+      "from": "2026-12-01",
+      "amount": 4510
+     }
     },
     {
      "name": "ファミリー（2年自動更新）",
      "amount": 5720,
      "cycle": "monthly",
-     "currency": "JPY"
+     "currency": "JPY",
+     "upcoming": {
+      "from": "2026-12-01",
+      "amount": 6050
+     }
     },
     {
      "name": "10ギガ",
@@ -4858,7 +4887,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-10-16"
   },
   {
    "id": "softbank-air",
@@ -4875,16 +4904,24 @@
      "name": "2年自動更新（新）",
      "amount": 5368,
      "cycle": "monthly",
-     "currency": "JPY"
+     "currency": "JPY",
+     "upcoming": {
+      "from": "2026-12-01",
+      "amount": 5698
+     }
     },
     {
      "name": "定期契約なし",
      "amount": 6578,
      "cycle": "monthly",
-     "currency": "JPY"
+     "currency": "JPY",
+     "upcoming": {
+      "from": "2026-12-01",
+      "amount": 6908
+     }
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-10-16"
   },
   {
    "id": "au-hikari",
@@ -7940,13 +7977,21 @@
      "name": "パーソナルミニ",
      "amount": 1408,
      "cycle": "monthly",
-     "currency": "JPY"
+     "currency": "JPY",
+     "upcoming": {
+      "from": "2026-12-01",
+      "amount": 1848
+     }
     },
     {
      "name": "パーソナル",
      "amount": 1848,
      "cycle": "monthly",
-     "currency": "JPY"
+     "currency": "JPY",
+     "upcoming": {
+      "from": "2026-12-01",
+      "amount": 3168
+     }
     },
     {
      "name": "パーソナルミニ（年払い）",
@@ -7958,16 +8003,24 @@
      "name": "パーソナル（年払い）",
      "amount": 16896,
      "cycle": "yearly",
-     "currency": "JPY"
+     "currency": "JPY",
+     "upcoming": {
+      "from": "2026-12-01",
+      "amount": 24816
+     }
     },
     {
      "name": "パーソナルプラス（年払い）",
      "amount": 39336,
      "cycle": "yearly",
-     "currency": "JPY"
+     "currency": "JPY",
+     "upcoming": {
+      "from": "2026-12-01",
+      "amount": 41976
+     }
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-10-16"
   },
   {
    "id": "apple-developer-program",
