@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16",
+ "updatedAt": "2026-10-20",
  "services": [
   {
    "id": "amazon-prime",
@@ -1449,7 +1449,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-10-16"
   },
   {
    "id": "xbox-game-pass",
@@ -2576,19 +2576,26 @@
      "currency": "JPY"
     },
     {
-     "name": "Pro 5x",
+     "name": "Pro 100",
      "amount": 16800,
      "cycle": "monthly",
      "currency": "JPY"
     },
     {
-     "name": "Pro 20x",
+     "name": "Pro 200",
      "amount": 30000,
      "cycle": "monthly",
      "currency": "JPY"
+    },
+    {
+     "name": "Pro 500",
+     "amount": 84000,
+     "cycle": "monthly",
+     "currency": "JPY",
+     "since": "2026-09-29"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-10-16"
   },
   {
    "id": "claude",
@@ -2699,6 +2706,62 @@
    "billingType": "fixed",
    "plans": [
     {
+     "name": "X Subscription Plus",
+     "amount": 8,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Plus（年額）",
+     "amount": 80,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Premium",
+     "amount": 30,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Premium（年額）",
+     "amount": 300,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Super",
+     "amount": 100,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Super（年額）",
+     "amount": 1000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Ultra",
+     "amount": 200,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Ultra（年額）",
+     "amount": 2000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
      "name": "SuperGrok Lite",
      "amount": 10,
      "cycle": "monthly",
@@ -2723,7 +2786,7 @@
      "currency": "USD"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-10-16"
   },
   {
    "id": "perplexity",
@@ -2815,6 +2878,13 @@
      "since": "2026-10-12"
     },
     {
+     "name": "Plus（年額）",
+     "amount": 80,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
      "name": "Premium",
      "amount": 30,
      "cycle": "monthly",
@@ -2822,9 +2892,37 @@
      "since": "2026-10-12"
     },
     {
+     "name": "Premium（年額）",
+     "amount": 300,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
      "name": "Super",
      "amount": 100,
      "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "Super（年額）",
+     "amount": 1000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "Ultra",
+     "amount": 200,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "Ultra（年額）",
+     "amount": 2000,
+     "cycle": "yearly",
      "currency": "USD",
      "since": "2026-10-12"
     },
@@ -2837,12 +2935,6 @@
     {
      "name": "Pro+",
      "amount": 60,
-     "cycle": "monthly",
-     "currency": "USD"
-    },
-    {
-     "name": "Ultra",
-     "amount": 200,
      "cycle": "monthly",
      "currency": "USD"
     }
@@ -3806,6 +3898,62 @@
    "billingType": "fixed",
    "plans": [
     {
+     "name": "X Subscription Plus",
+     "amount": 8,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Plus（年額）",
+     "amount": 80,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Premium",
+     "amount": 30,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Premium（年額）",
+     "amount": 300,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Super",
+     "amount": 100,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Super（年額）",
+     "amount": 1000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Ultra",
+     "amount": 200,
+     "cycle": "monthly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "X Subscription Ultra（年額）",
+     "amount": 2000,
+     "cycle": "yearly",
+     "currency": "USD",
+     "since": "2026-10-12"
+    },
+    {
      "name": "ベーシック",
      "amount": 368,
      "cycle": "monthly",
@@ -3842,7 +3990,7 @@
      "currency": "JPY"
     }
    ],
-   "checkedAt": "2026-09-28"
+   "checkedAt": "2026-10-16"
   },
   {
    "id": "eset",
