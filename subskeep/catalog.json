@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20",
+ "updatedAt": "2026-10-21",
  "services": [
   {
    "id": "amazon-prime",
@@ -903,6 +903,28 @@
     }
    ],
    "checkedAt": "2026-09-29"
+  },
+  {
+   "id": "line-manga",
+   "name": "LINEマンガ（dアニメストア for LINEマンガ）",
+   "category": "video",
+   "aliases": [
+    "ラインマンガ",
+    "LINEマンガ",
+    "LINE マンガ アニメ見放題",
+    "dアニメストア for LINEマンガ"
+   ],
+   "url": "https://manga.line.me/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "アニメ見放題（月額）",
+     "amount": 760,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
   },
   {
    "id": "spotify",
@@ -2552,6 +2574,51 @@
    "checkedAt": "2026-09-29"
   },
   {
+   "id": "mechacomic",
+   "name": "めちゃコミック 月額コース",
+   "category": "news",
+   "aliases": [
+    "めちゃコミ",
+    "めちゃコミック",
+    "mechacomic"
+   ],
+   "url": "https://mechacomic.jp/info/guide",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "300pt コース",
+     "amount": 330,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "500pt コース",
+     "amount": 550,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "1,000pt コース",
+     "amount": 1100,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "2,000pt コース",
+     "amount": 2200,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "5,000pt コース",
+     "amount": 5500,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
    "id": "chatgpt",
    "name": "ChatGPT",
    "category": "ai",
@@ -4150,6 +4217,131 @@
    "checkedAt": "2026-09-28"
   },
   {
+   "id": "nordvpn",
+   "name": "NordVPN",
+   "category": "software",
+   "aliases": [
+    "ノードVPN",
+    "VPN"
+   ],
+   "url": "https://nordvpn.com/ja/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "1か月（アプリ内）",
+     "amount": 2100,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "12か月（アプリ内）",
+     "amount": 11800,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "expressvpn",
+   "name": "ExpressVPN",
+   "category": "software",
+   "aliases": [
+    "エクスプレスVPN",
+    "VPN"
+   ],
+   "url": "https://www.expressvpn.com/jp",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "1ヶ月（アプリ内）",
+     "amount": 1900,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "12ヶ月（アプリ内）",
+     "amount": 14000,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "millenvpn",
+   "name": "MillenVPN",
+   "category": "software",
+   "aliases": [
+    "ミレンVPN",
+    "VPN"
+   ],
+   "url": "https://millenvpn.jp/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "1ヶ月プラン",
+     "amount": 1738,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "2年プラン（月額換算・初回割引）",
+     "amount": 396,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "mcafee",
+   "name": "マカフィー",
+   "category": "software",
+   "aliases": [
+    "McAfee",
+    "マカフィー リブセーフ",
+    "マカフィー+",
+    "McAfee+",
+    "トータルプロテクション"
+   ],
+   "url": "https://www.mcafee.com/ja-jp/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "マカフィー ベーシック（月額）",
+     "amount": 350,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "マカフィー ベーシック（年額）",
+     "amount": 3300,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Total Protection（年額）",
+     "amount": 12600,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "McAfee+ アドバンス（月額）",
+     "amount": 1500,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "McAfee+ アドバンス（年額）",
+     "amount": 15980,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
    "id": "docomo",
    "name": "ドコモ",
    "category": "communication",
@@ -5371,6 +5563,322 @@
     }
    ],
    "checkedAt": "2026-09-28"
+  },
+  {
+   "id": "instagram-plus",
+   "name": "Instagram Plus",
+   "category": "communication",
+   "aliases": [
+    "インスタグラムプラス",
+    "インスタプラス",
+    "インスタ 有料",
+    "Instagram 有料プラン",
+    "Meta One"
+   ],
+   "url": "https://about.fb.com/ja/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "月額",
+     "amount": 319,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "facebook-plus",
+   "name": "Facebook Plus",
+   "category": "communication",
+   "aliases": [
+    "フェイスブックプラス",
+    "Facebook 有料プラン",
+    "Meta One"
+   ],
+   "url": "https://about.fb.com/ja/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "月額",
+     "amount": 319,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "meta-one",
+   "name": "Meta One",
+   "category": "communication",
+   "aliases": [
+    "メタワン",
+    "Meta One Core",
+    "Meta One Premium",
+    "WhatsApp Plus",
+    "Meta AI 有料"
+   ],
+   "url": "https://about.fb.com/ja/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "WhatsApp Plus",
+     "amount": 239,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Core（個人向けバンドル）",
+     "amount": 949,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Premium（個人向けバンドル）",
+     "amount": 2900,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Essential（クリエイター・ビジネス向け）",
+     "amount": 2000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Advanced（クリエイター・ビジネス向け）",
+     "amount": 5200,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "meta-verified",
+   "name": "Meta認証（Meta Verified）",
+   "category": "communication",
+   "aliases": [
+    "メタ認証",
+    "Meta Verified",
+    "認証バッジ",
+    "インスタ 認証バッジ",
+    "Facebook 認証"
+   ],
+   "url": "https://www.facebook.com/business/m/meta-verified",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "Standard（iPhone アプリで購入）",
+     "amount": 2000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Web で購入",
+     "amount": 1592,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "snapchat-plus",
+   "name": "Snapchat+",
+   "category": "communication",
+   "aliases": [
+    "スナップチャットプラス",
+    "スナチャ プラス",
+    "Snapchat Plus"
+   ],
+   "url": "https://www.snapchat.com/plus",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "月額",
+     "amount": 450,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "telegram-premium",
+   "name": "Telegram Premium",
+   "category": "communication",
+   "aliases": [
+    "テレグラム プレミアム",
+    "テレグラム",
+    "Telegram"
+   ],
+   "url": "https://telegram.org/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "月額",
+     "amount": 650,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "pairs",
+   "name": "Pairs",
+   "category": "communication",
+   "aliases": [
+    "ペアーズ",
+    "マッチングアプリ",
+    "Pairs 有料会員"
+   ],
+   "url": "https://www.pairs.lv/price",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "1ヶ月（Web）",
+     "amount": 4100,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "1ヶ月（アプリ内）",
+     "amount": 4800,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "12ヶ月（Web）",
+     "amount": 20100,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "12ヶ月（アプリ内）",
+     "amount": 22400,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "tapple",
+   "name": "タップル",
+   "category": "communication",
+   "aliases": [
+    "tapple",
+    "タップル誕生",
+    "マッチングアプリ"
+   ],
+   "url": "https://tapple.me/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "1ヶ月プラン（アプリ内）",
+     "amount": 4800,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "12ヶ月プラン（アプリ内）",
+     "amount": 21800,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "with",
+   "name": "with",
+   "category": "communication",
+   "aliases": [
+    "ウィズ",
+    "with マッチング",
+    "マッチングアプリ"
+   ],
+   "url": "https://with.is/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "1ヶ月（アプリ内）",
+     "amount": 4700,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "VIPオプション（1ヶ月）",
+     "amount": 3500,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "omiai",
+   "name": "Omiai",
+   "category": "communication",
+   "aliases": [
+    "オミアイ",
+    "マッチングアプリ",
+    "Omiai 有料会員"
+   ],
+   "url": "https://omiai-jp.com/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "有料会員 1か月",
+     "amount": 4900,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "有料会員 12か月",
+     "amount": 27800,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "プレミアムパック 1か月",
+     "amount": 4800,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "tinder",
+   "name": "Tinder",
+   "category": "communication",
+   "aliases": [
+    "ティンダー",
+    "Tinder Plus",
+    "Tinder Gold",
+    "Tinder Platinum"
+   ],
+   "url": "https://tinder.com/ja",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "Tinder Plus",
+     "amount": 1200,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Tinder Gold",
+     "amount": 3400,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
   },
   {
    "id": "duolingo",
@@ -7168,6 +7676,39 @@
    "checkedAt": "2026-09-28"
   },
   {
+   "id": "strava",
+   "name": "Strava",
+   "category": "fitness",
+   "aliases": [
+    "ストラバ",
+    "Strava サブスクリプション",
+    "Strava Premium"
+   ],
+   "url": "https://www.strava.com/pricing?hl=ja-JP",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "月額",
+     "amount": 1090,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "年額",
+     "amount": 7800,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "ファミリープラン（年額）",
+     "amount": 13000,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
    "id": "uber-one",
    "name": "Uber One",
    "category": "food",
@@ -7261,6 +7802,124 @@
    "checkedAt": "2026-09-28"
   },
   {
+   "id": "cookpad-premium",
+   "name": "クックパッド プレミアムサービス",
+   "category": "food",
+   "aliases": [
+    "クックパッド",
+    "Cookpad",
+    "クックパッド プレミアム",
+    "人気順検索"
+   ],
+   "url": "https://cookpad.com/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "月額",
+     "amount": 400,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "kurashiru-premium",
+   "name": "クラシル プレミアム",
+   "category": "food",
+   "aliases": [
+    "クラシル",
+    "kurashiru",
+    "クラシルプレミアム"
+   ],
+   "url": "https://www.kurashiru.com/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "月額",
+     "amount": 480,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "delish-kitchen-premium",
+   "name": "デリッシュキッチン プレミアム",
+   "category": "food",
+   "aliases": [
+    "デリッシュキッチン",
+    "DELISH KITCHEN",
+    "デリッシュ"
+   ],
+   "url": "https://delishkitchen.tv/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "1か月プラン",
+     "amount": 480,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "ファミリープラン（最大6人）",
+     "amount": 720,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "12か月プラン",
+     "amount": 4500,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "palsystem",
+   "name": "パルシステム",
+   "category": "food",
+   "aliases": [
+    "生協",
+    "コープ 宅配",
+    "パル"
+   ],
+   "url": "https://www.pal-system.co.jp/",
+   "billingType": "variable",
+   "plans": [
+    {
+     "name": "注文内容で変わる（手数料は注文額で0〜248円/週・東京の例）",
+     "amount": 0,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "coopdeli",
+   "name": "コープデリ",
+   "category": "food",
+   "aliases": [
+    "生協",
+    "CO・OP デリ",
+    "おうちコープ"
+   ],
+   "url": "https://www.coopdeli.jp/",
+   "billingType": "variable",
+   "plans": [
+    {
+     "name": "注文内容で変わる",
+     "amount": 0,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
    "id": "secom",
    "name": "セコム・ホームセキュリティ",
    "category": "home",
@@ -7338,6 +7997,26 @@
     }
    ],
    "checkedAt": "2026-09-28"
+  },
+  {
+   "id": "premium-water",
+   "name": "プレミアムウォーター",
+   "category": "home",
+   "aliases": [
+    "ウォーターサーバー",
+    "PREMIUM WATER"
+   ],
+   "url": "https://premium-water.net/",
+   "billingType": "variable",
+   "plans": [
+    {
+     "name": "天然水 月1セット（12L×2本）の目安",
+     "amount": 4190,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
   },
   {
    "id": "times-car",
@@ -7420,6 +8099,95 @@
    "billingType": "free",
    "plans": [],
    "checkedAt": "2026-09-28"
+  },
+  {
+   "id": "luup",
+   "name": "LUUP",
+   "category": "car",
+   "aliases": [
+    "ループ",
+    "LUUP サブスク",
+    "電動キックボード",
+    "シェアサイクル"
+   ],
+   "url": "https://luup.sc/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "サブスクプラン（月額・ライドは30分200円）",
+     "amount": 980,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "docomo-bikeshare",
+   "name": "ドコモ・バイクシェア（NOLL）",
+   "category": "car",
+   "aliases": [
+    "ドコモバイクシェア",
+    "NOLL",
+    "ノル",
+    "バイクシェア",
+    "シェアサイクル",
+    "赤い自転車"
+   ],
+   "url": "https://docomo-cycle.jp/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "月額プラン",
+     "amount": 3300,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "hello-cycling",
+   "name": "HELLO CYCLING",
+   "category": "car",
+   "aliases": [
+    "ハローサイクリング",
+    "シェアサイクル",
+    "レンタサイクル"
+   ],
+   "url": "https://www.hellocycling.jp/",
+   "billingType": "variable",
+   "plans": [
+    {
+     "name": "使った分だけ（自転車30分160〜200円ほど）",
+     "amount": 0,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "kinto",
+   "name": "KINTO",
+   "category": "car",
+   "aliases": [
+    "キント",
+    "KINTO ONE",
+    "トヨタ サブスク",
+    "車のサブスク"
+   ],
+   "url": "https://kinto-jp.com/",
+   "billingType": "variable",
+   "plans": [
+    {
+     "name": "車種・期間で変わる（ヤリス7年・初期費用フリーで月16,830円〜の例）",
+     "amount": 0,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
   },
   {
    "id": "electricity",
@@ -7590,6 +8358,29 @@
     }
    ],
    "checkedAt": "2026-09-29"
+  },
+  {
+   "id": "chargespot-pass",
+   "name": "CHARGESPOT Pass",
+   "category": "utility",
+   "aliases": [
+    "チャージスポット",
+    "ChargeSPOT",
+    "CHARGESPOT",
+    "モバイルバッテリー レンタル",
+    "チャージスポットパス"
+   ],
+   "url": "https://chargespot.jp/service/chargespot-pass/",
+   "billingType": "variable",
+   "plans": [
+    {
+     "name": "基本料金（1回分込み・月6回で上限2,340円）",
+     "amount": 390,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
   },
   {
    "id": "life-insurance",
@@ -7837,6 +8628,118 @@
     }
    ],
    "checkedAt": "2026-09-29"
+  },
+  {
+   "id": "d-card-gold",
+   "name": "dカード GOLD",
+   "category": "finance",
+   "aliases": [
+    "dカードゴールド",
+    "dカード",
+    "dカード GOLD U"
+   ],
+   "url": "https://dcard.docomo.ne.jp/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "年会費",
+     "amount": 11000,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "dカード GOLD U 年会費",
+     "amount": 3300,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "au-pay-gold",
+   "name": "au PAY ゴールドカード",
+   "category": "finance",
+   "aliases": [
+    "auペイゴールド",
+    "au PAY カード",
+    "auゴールドカード"
+   ],
+   "url": "https://www.kddi-fs.com/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "年会費",
+     "amount": 11000,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "paypay-card-gold",
+   "name": "PayPayカード ゴールド",
+   "category": "finance",
+   "aliases": [
+    "ペイペイカード ゴールド",
+    "PayPayカード",
+    "PayPay"
+   ],
+   "url": "https://www.paypay-card.co.jp/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "年会費",
+     "amount": 11000,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "amex-green",
+   "name": "アメリカン・エキスプレス・グリーン・カード",
+   "category": "finance",
+   "aliases": [
+    "アメックス グリーン",
+    "アメックス",
+    "American Express",
+    "Amex"
+   ],
+   "url": "https://www.americanexpress.com/ja-jp/credit-cards/green-card/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "月会費",
+     "amount": 1100,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "smbc-gold-nl",
+   "name": "三井住友カード ゴールド（NL）",
+   "category": "finance",
+   "aliases": [
+    "三井住友ゴールドNL",
+    "三井住友カード",
+    "ゴールドNL"
+   ],
+   "url": "https://www.smbc-card.com/nyukai/card/gold-numberless.jsp",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "年会費",
+     "amount": 5500,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
   },
   {
    "id": "lyp-premium",
