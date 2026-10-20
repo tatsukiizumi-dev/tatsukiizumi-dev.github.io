@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21",
+ "updatedAt": "2026-10-22",
  "services": [
   {
    "id": "amazon-prime",
@@ -8184,6 +8184,46 @@
      "name": "車種・期間で変わる（ヤリス7年・初期費用フリーで月16,830円〜の例）",
      "amount": 0,
      "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "commuter-pass",
+   "name": "定期券（通勤・通学）",
+   "category": "car",
+   "aliases": [
+    "定期",
+    "ていき",
+    "通勤定期",
+    "通学定期",
+    "定期代",
+    "Suica 定期",
+    "モバイルSuica",
+    "PASMO",
+    "ICOCA",
+    "バス定期"
+   ],
+   "url": "",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "1か月",
+     "amount": 0,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "3か月",
+     "amount": 0,
+     "cycle": "quarterly",
+     "currency": "JPY"
+    },
+    {
+     "name": "6か月",
+     "amount": 0,
+     "cycle": "halfYearly",
      "currency": "JPY"
     }
    ],
