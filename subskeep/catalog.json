@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22",
+ "updatedAt": "2026-10-23",
  "services": [
   {
    "id": "amazon-prime",
@@ -117,6 +117,12 @@
      "currency": "JPY"
     },
     {
+     "name": "Premium Lite 個人（アプリ内）",
+     "amount": 980,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "学生",
      "amount": 780,
      "cycle": "monthly",
@@ -129,6 +135,12 @@
      "currency": "JPY"
     },
     {
+     "name": "個人（アプリ内）",
+     "amount": 1680,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Premium Lite ファミリー",
      "amount": 1480,
      "cycle": "monthly",
@@ -137,6 +149,12 @@
     {
      "name": "ファミリー",
      "amount": 2280,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "ファミリー（アプリ内）",
+     "amount": 2900,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -163,6 +181,12 @@
     {
      "name": "月額プラン",
      "amount": 2189,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "月額プラン（アプリ内）",
+     "amount": 2400,
      "cycle": "monthly",
      "currency": "JPY"
     }
@@ -214,6 +238,12 @@
     {
      "name": "プレミアム（年額）",
      "amount": 16700,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "プレミアム（年額）（アプリ内）",
+     "amount": 16800,
      "cycle": "yearly",
      "currency": "JPY"
     }
@@ -329,6 +359,12 @@
      "currency": "JPY"
     },
     {
+     "name": "DAZN BASEBALL 年間プラン（一括払い）（アプリ内）",
+     "amount": 27400,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
      "name": "DAZN STANDARD 年間プラン（一括払い）",
      "amount": 32000,
      "cycle": "yearly",
@@ -351,6 +387,12 @@
     {
      "name": "Hulu（月額）",
      "amount": 1320,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Hulu（月額）（アプリ内）",
+     "amount": 1450,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -388,6 +430,12 @@
      "currency": "JPY"
     },
     {
+     "name": "DMMプレミアム（アプリ内）",
+     "amount": 650,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "DMM×DAZNホーダイ",
      "amount": 3480,
      "cycle": "monthly",
@@ -413,6 +461,12 @@
      "amount": 660,
      "cycle": "monthly",
      "currency": "JPY"
+    },
+    {
+     "name": "月額（アプリ内）",
+     "amount": 760,
+     "cycle": "monthly",
+     "currency": "JPY"
     }
    ],
    "checkedAt": "2026-09-28"
@@ -432,6 +486,12 @@
     {
      "name": "Leminoプレミアム",
      "amount": 1540,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Leminoプレミアム（アプリ内）",
+     "amount": 1650,
      "cycle": "monthly",
      "currency": "JPY"
     }
@@ -474,6 +534,12 @@
     {
      "name": "広告付きライトコース",
      "amount": 976,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "広告付きライトコース（アプリ内）",
+     "amount": 980,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -526,6 +592,12 @@
     {
      "name": "スタンダードプラン",
      "amount": 2530,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "スタンダードプラン（アプリ内）",
+     "amount": 2790,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -1035,8 +1107,20 @@
      "currency": "JPY"
     },
     {
+     "name": "個人プラン（アプリ内）",
+     "amount": 1280,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "ファミリープラン",
      "amount": 1980,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "ファミリープラン（アプリ内）",
+     "amount": 2280,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -1081,8 +1165,20 @@
      "currency": "JPY"
     },
     {
+     "name": "個人（アプリ内）",
+     "amount": 1450,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "ファミリー",
      "amount": 1680,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "ファミリー（アプリ内）",
+     "amount": 2180,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -1114,8 +1210,20 @@
      "currency": "JPY"
     },
     {
+     "name": "学生（アプリ内）",
+     "amount": 580,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "一般",
      "amount": 980,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "一般（アプリ内）",
+     "amount": 1080,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -1189,8 +1297,20 @@
      "currency": "JPY"
     },
     {
+     "name": "STANDARD 一般（アプリ内）",
+     "amount": 1080,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "STANDARD 一般 年額",
      "amount": 9800,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "STANDARD 一般 年額（アプリ内）",
+     "amount": 10800,
      "cycle": "yearly",
      "currency": "JPY"
     }
@@ -1221,6 +1341,12 @@
      "currency": "JPY"
     },
     {
+     "name": "ライト（アプリ内）",
+     "amount": 580,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "スタンダード（楽天カード/モバイル会員）",
      "amount": 780,
      "cycle": "monthly",
@@ -1229,6 +1355,12 @@
     {
      "name": "スタンダード",
      "amount": 980,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "スタンダード（アプリ内）",
+     "amount": 1080,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -1891,6 +2023,12 @@
      "currency": "JPY"
     },
     {
+     "name": "月額プラン（アプリ内）",
+     "amount": 710,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "3カ月プラン",
      "amount": 1650,
      "cycle": "quarterly",
@@ -1921,6 +2059,18 @@
     {
      "name": "個人プラン",
      "amount": 4277,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "個人プラン 年額（アプリ内）",
+     "amount": 46400,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "個人プラン（アプリ内）",
+     "amount": 4300,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -2058,14 +2208,32 @@
      "currency": "JPY"
     },
     {
+     "name": "エリアフリープラン（アプリ内）",
+     "amount": 480,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "タイムフリー30プラン",
      "amount": 480,
      "cycle": "monthly",
      "currency": "JPY"
     },
     {
+     "name": "タイムフリー30プラン（アプリ内）",
+     "amount": 620,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "ダブルプラン",
      "amount": 865,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "ダブルプラン（アプリ内）",
+     "amount": 1100,
      "cycle": "monthly",
      "currency": "JPY"
     }
@@ -2114,6 +2282,12 @@
     {
      "name": "1ヶ月",
      "amount": 590,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "1ヶ月（アプリ内）",
+     "amount": 600,
      "cycle": "monthly",
      "currency": "JPY"
     }
@@ -2296,8 +2470,20 @@
      "currency": "JPY"
     },
     {
+     "name": "聴き放題 月額プラン（アプリ内）",
+     "amount": 1380,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "聴き放題 年割プラン",
      "amount": 9990,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "聴き放題 年割プラン（アプリ内）",
+     "amount": 10200,
      "cycle": "yearly",
      "currency": "JPY"
     }
@@ -2643,6 +2829,12 @@
      "currency": "JPY"
     },
     {
+     "name": "Plus（年払い）（アプリ内）",
+     "amount": 30000,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
      "name": "Pro 100",
      "amount": 16800,
      "cycle": "monthly",
@@ -2683,10 +2875,22 @@
      "currency": "USD"
     },
     {
+     "name": "Pro（アプリ内）",
+     "amount": 3000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Max 5x",
      "amount": 110,
      "cycle": "monthly",
      "currency": "USD"
+    },
+    {
+     "name": "Max 5x（アプリ内）",
+     "amount": 20000,
+     "cycle": "monthly",
+     "currency": "JPY"
     },
     {
      "name": "Max 20x",
@@ -2695,10 +2899,22 @@
      "currency": "USD"
     },
     {
+     "name": "Max 20x（アプリ内）",
+     "amount": 40000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Pro（年払い）",
      "amount": 220,
      "cycle": "yearly",
      "currency": "USD"
+    },
+    {
+     "name": "Pro（年払い）（アプリ内）",
+     "amount": 35000,
+     "cycle": "yearly",
+     "currency": "JPY"
     }
    ],
    "checkedAt": "2026-09-29"
@@ -2727,6 +2943,12 @@
      "currency": "JPY"
     },
     {
+     "name": "Google AI Plus（400GB）（アプリ内）",
+     "amount": 720,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Google AI Pro（5TB）",
      "amount": 2900,
      "cycle": "monthly",
@@ -2747,6 +2969,12 @@
     {
      "name": "Google AI Plus（400GB・年額）",
      "amount": 7250,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Google AI Plus（400GB・年額）（アプリ内）",
+     "amount": 7200,
      "cycle": "yearly",
      "currency": "JPY"
     },
@@ -2835,10 +3063,22 @@
      "currency": "USD"
     },
     {
+     "name": "SuperGrok Lite（アプリ内）",
+     "amount": 1500,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "SuperGrok",
      "amount": 30,
      "cycle": "monthly",
      "currency": "USD"
+    },
+    {
+     "name": "SuperGrok（アプリ内）",
+     "amount": 5000,
+     "cycle": "monthly",
+     "currency": "JPY"
     },
     {
      "name": "SuperGrok Plus",
@@ -2847,10 +3087,22 @@
      "currency": "USD"
     },
     {
+     "name": "SuperGrok Plus（アプリ内）",
+     "amount": 15000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "SuperGrok Heavy",
      "amount": 300,
      "cycle": "monthly",
      "currency": "USD"
+    },
+    {
+     "name": "SuperGrok Heavy（アプリ内）",
+     "amount": 50000,
+     "cycle": "monthly",
+     "currency": "JPY"
     }
    ],
    "checkedAt": "2026-10-16"
@@ -2874,16 +3126,34 @@
      "currency": "USD"
     },
     {
+     "name": "Pro（アプリ内）",
+     "amount": 3000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Max",
      "amount": 200,
      "cycle": "monthly",
      "currency": "USD"
     },
     {
+     "name": "Max（アプリ内）",
+     "amount": 30000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Pro（年払い）",
      "amount": 200,
      "cycle": "yearly",
      "currency": "USD"
+    },
+    {
+     "name": "Pro（年払い）（アプリ内）",
+     "amount": 30000,
+     "cycle": "yearly",
+     "currency": "JPY"
     },
     {
      "name": "Max（年払い）",
@@ -2912,16 +3182,34 @@
      "currency": "USD"
     },
     {
+     "name": "Pro（アプリ内）",
+     "amount": 1500,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Pro+",
      "amount": 42.9,
      "cycle": "monthly",
      "currency": "USD"
     },
     {
+     "name": "Pro+（アプリ内）",
+     "amount": 6000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Max",
      "amount": 110,
      "cycle": "monthly",
      "currency": "USD"
+    },
+    {
+     "name": "Max（アプリ内）",
+     "amount": 15000,
+     "cycle": "monthly",
+     "currency": "JPY"
     }
    ],
    "checkedAt": "2026-09-29"
@@ -3000,10 +3288,22 @@
      "currency": "USD"
     },
     {
+     "name": "Pro（アプリ内）",
+     "amount": 4000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Pro+",
      "amount": 60,
      "cycle": "monthly",
      "currency": "USD"
+    },
+    {
+     "name": "Pro+（アプリ内）",
+     "amount": 13000,
+     "cycle": "monthly",
+     "currency": "JPY"
     }
    ],
    "checkedAt": "2026-10-16"
@@ -3086,6 +3386,12 @@
      "currency": "USD"
     },
     {
+     "name": "Plus（アプリ内）",
+     "amount": 4000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Pro",
      "amount": 249.99,
      "cycle": "monthly",
@@ -3096,6 +3402,12 @@
      "amount": 239.88,
      "cycle": "yearly",
      "currency": "USD"
+    },
+    {
+     "name": "Plus（年払い）（アプリ内）",
+     "amount": 40000,
+     "cycle": "yearly",
+     "currency": "JPY"
     },
     {
      "name": "Pro（年払い）",
@@ -3125,8 +3437,20 @@
      "currency": "JPY"
     },
     {
+     "name": "Pro（アプリ内）",
+     "amount": 2990,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Pro（年払い）",
      "amount": 20998,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Pro（年払い）（アプリ内）",
+     "amount": 29980,
      "cycle": "yearly",
      "currency": "JPY"
     }
@@ -3322,6 +3646,12 @@
      "currency": "JPY"
     },
     {
+     "name": "Plus（アプリ内）",
+     "amount": 1600,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Standard（1 ユーザー）",
      "amount": 1980,
      "cycle": "monthly",
@@ -3334,8 +3664,20 @@
      "currency": "JPY"
     },
     {
+     "name": "Professional（アプリ内）",
+     "amount": 2600,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Plus（年払い）",
      "amount": 15840,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Plus（年払い）（アプリ内）",
+     "amount": 15400,
      "cycle": "yearly",
      "currency": "JPY"
     },
@@ -3496,8 +3838,20 @@
      "currency": "JPY"
     },
     {
+     "name": "Personal（アプリ内）",
+     "amount": 2100,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "Family",
      "amount": 2740,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Family（アプリ内）",
+     "amount": 2700,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -3516,6 +3870,12 @@
     {
      "name": "Personal（年額）",
      "amount": 21300,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Personal（年額）（アプリ内）",
+     "amount": 21000,
      "cycle": "yearly",
      "currency": "JPY"
     },
@@ -3761,8 +4121,20 @@
      "currency": "JPY"
     },
     {
+     "name": "プラス（1 メンバー）（アプリ内）",
+     "amount": 1800,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "ビジネス（1 メンバー）",
      "amount": 4180,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "ビジネス（1 メンバー）（アプリ内）",
+     "amount": 4000,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -3773,8 +4145,20 @@
      "currency": "JPY"
     },
     {
+     "name": "プラス（1 メンバー・年払い）（アプリ内）",
+     "amount": 18000,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
      "name": "ビジネス（1 メンバー・年払い）",
      "amount": 41580,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "ビジネス（1 メンバー・年払い）（アプリ内）",
+     "amount": 40000,
      "cycle": "yearly",
      "currency": "JPY"
     }
@@ -3883,6 +4267,12 @@
     {
      "name": "プロ（1 ユーザー・年払い）",
      "amount": 29528,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "プロ（1 ユーザー・年払い）（アプリ内）",
+     "amount": 27980,
      "cycle": "yearly",
      "currency": "JPY"
     },
@@ -4027,8 +4417,20 @@
      "currency": "JPY"
     },
     {
+     "name": "ベーシック（アプリ内）",
+     "amount": 450,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "プレミアム",
      "amount": 980,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "プレミアム（アプリ内）",
+     "amount": 1270,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -4039,14 +4441,32 @@
      "currency": "JPY"
     },
     {
+     "name": "プレミアムプラス（アプリ内）",
+     "amount": 8000,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "ベーシック（年額）",
      "amount": 3916,
      "cycle": "yearly",
      "currency": "JPY"
     },
     {
+     "name": "ベーシック（年額）（アプリ内）",
+     "amount": 4500,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
      "name": "プレミアム（年額）",
      "amount": 10280,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "プレミアム（年額）（アプリ内）",
+     "amount": 12700,
      "cycle": "yearly",
      "currency": "JPY"
     },
@@ -4167,6 +4587,12 @@
     {
      "name": "3台版（1年・自動更新）",
      "amount": 6490,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "3台版（1年・自動更新）（アプリ内）",
+     "amount": 5300,
      "cycle": "yearly",
      "currency": "JPY"
     },
@@ -5952,6 +6378,12 @@
      "currency": "JPY"
     },
     {
+     "name": "ベーシックコース 月額（アプリ内）",
+     "amount": 2800,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "ベーシックコース 12ヶ月一括",
      "amount": 21780,
      "cycle": "yearly",
@@ -6327,8 +6759,20 @@
      "currency": "JPY"
     },
     {
+     "name": "プラスプラン 12ヶ月（アプリ内）",
+     "amount": 11900,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
      "name": "プロプラン 12ヶ月",
      "amount": 29880,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "プロプラン 12ヶ月（アプリ内）",
+     "amount": 29980,
      "cycle": "yearly",
      "currency": "JPY"
     }
@@ -6938,6 +7382,12 @@
     {
      "name": "ベーシックコース 月払い",
      "amount": 2178,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "ベーシックコース 月払い（アプリ内）",
+     "amount": 2800,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -7603,8 +8053,20 @@
      "currency": "JPY"
     },
     {
+     "name": "月額プラン（アプリ内）",
+     "amount": 2600,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "12ヶ月プラン",
      "amount": 19536,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "12ヶ月プラン（アプリ内）",
+     "amount": 19800,
      "cycle": "yearly",
      "currency": "JPY"
     }
@@ -9019,8 +9481,20 @@
      "currency": "JPY"
     },
     {
+     "name": "スターター（アプリ内）",
+     "amount": 1960,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
      "name": "スタンダード",
      "amount": 3278,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "スタンダード（アプリ内）",
+     "amount": 3280,
      "cycle": "monthly",
      "currency": "JPY"
     },
@@ -9031,14 +9505,32 @@
      "currency": "JPY"
     },
     {
+     "name": "スターター（年払い）（アプリ内）",
+     "amount": 12800,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
      "name": "スタンダード（年払い）",
      "amount": 26136,
      "cycle": "yearly",
      "currency": "JPY"
     },
     {
+     "name": "スタンダード（年払い）（アプリ内）",
+     "amount": 26800,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
      "name": "プレミアム（年払い）",
      "amount": 43780,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "プレミアム（年払い）（アプリ内）",
+     "amount": 44800,
      "cycle": "yearly",
      "currency": "JPY"
     },
@@ -9073,6 +9565,12 @@
       "from": "2026-12-01",
       "amount": 1848
      }
+    },
+    {
+     "name": "パーソナルミニ（アプリ内）",
+     "amount": 1500,
+     "cycle": "monthly",
+     "currency": "JPY"
     },
     {
      "name": "パーソナル",
