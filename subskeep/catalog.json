@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29",
+ "updatedAt": "2026-10-30",
  "services": [
   {
    "id": "amazon-prime",
@@ -4059,6 +4059,72 @@
    "checkedAt": "2026-10-28"
   },
   {
+   "id": "elevenlabs",
+   "name": "ElevenLabs",
+   "category": "ai",
+   "aliases": [
+    "イレブンラボ",
+    "イレブンラボズ",
+    "Eleven Labs",
+    "ElevenLabs Creator",
+    "AI音声",
+    "音声合成"
+   ],
+   "url": "https://elevenlabs.io/ja",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "Starter",
+     "amount": 6,
+     "cycle": "monthly",
+     "currency": "USD"
+    },
+    {
+     "name": "Starter（年払い）",
+     "amount": 60,
+     "cycle": "yearly",
+     "currency": "USD"
+    },
+    {
+     "name": "Creator",
+     "amount": 22,
+     "cycle": "monthly",
+     "currency": "USD"
+    },
+    {
+     "name": "Creator（年払い）",
+     "amount": 220,
+     "cycle": "yearly",
+     "currency": "USD"
+    },
+    {
+     "name": "Pro",
+     "amount": 99,
+     "cycle": "monthly",
+     "currency": "USD"
+    },
+    {
+     "name": "Pro（年払い）",
+     "amount": 990,
+     "cycle": "yearly",
+     "currency": "USD"
+    },
+    {
+     "name": "Creator（アプリ内）",
+     "amount": 3500,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Creator（年払い）（アプリ内）",
+     "amount": 35000,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-28"
+  },
+  {
    "id": "icloud-plus",
    "name": "iCloud+",
    "category": "cloud",
@@ -7249,6 +7315,145 @@
    "checkedAt": "2026-10-28"
   },
   {
+   "id": "en-hikari",
+   "name": "enひかり",
+   "category": "communication",
+   "aliases": [
+    "エンひかり",
+    "えんひかり",
+    "en光",
+    "eｎひかり",
+    "enひかりクロス",
+    "enひかりLite",
+    "縁人"
+   ],
+   "url": "https://enhikari.jp/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "ファミリータイプ（戸建て）",
+     "amount": 4620,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "マンションタイプ",
+     "amount": 3520,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "クロス（10ギガ）with v6プラス・Xpass・IPv6オプション",
+     "amount": 4917,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "クロス（10ギガ）with お任せISP",
+     "amount": 4700,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Lite ファミリータイプ（戸建て）",
+     "amount": 4370,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "Lite マンションタイプ",
+     "amount": 3270,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-28"
+  },
+  {
+   "id": "pikara-hikari",
+   "name": "ピカラ光",
+   "category": "communication",
+   "aliases": [
+    "ピカラ",
+    "ピカラ光ねっと",
+    "ピカラひかり",
+    "Pikara",
+    "STNet",
+    "エスティネット"
+   ],
+   "url": "https://www.pikara.jp/net/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "1G ホーム（戸建て）",
+     "amount": 4950,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "1G マンション",
+     "amount": 3740,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "1G ホーム（戸建て）でんきといっしょ割",
+     "amount": 4620,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "1G マンション でんきといっしょ割",
+     "amount": 3520,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "10G ホーム（戸建て）",
+     "amount": 6600,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "10G マンション",
+     "amount": 5390,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-28"
+  },
+  {
+   "id": "tone-mobile",
+   "name": "トーンモバイル",
+   "category": "communication",
+   "aliases": [
+    "TONE",
+    "TONE mobile",
+    "トーン モバイル",
+    "TONE for iPhone",
+    "TONE for Android",
+    "TONEファミリー"
+   ],
+   "url": "https://tone.ne.jp/",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "基本プラン（iPhone・Android）",
+     "amount": 1210,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "基本プラン＋TONEファミリー＋あんしんインターネット（子ども向けの例）",
+     "amount": 1793,
+     "cycle": "monthly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-28"
+  },
+  {
    "id": "duolingo",
    "name": "Duolingo",
    "category": "learning",
@@ -8802,6 +9007,49 @@
     }
    ],
    "checkedAt": "2026-09-28"
+  },
+  {
+   "id": "furbo",
+   "name": "Furboシッター",
+   "category": "pet",
+   "aliases": [
+    "Furbo",
+    "ファーボ",
+    "ファーボシッター",
+    "Furbo ドッグシッター",
+    "Furbo Nanny",
+    "ファーボ ナニー",
+    "ペットカメラ"
+   ],
+   "url": "https://furbo.com/jp/pages/furbo-nanny",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "スタンダード",
+     "amount": 798,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "スタンダード（1年契約・2年目以降）",
+     "amount": 7661,
+     "cycle": "yearly",
+     "currency": "JPY"
+    },
+    {
+     "name": "プレミアム",
+     "amount": 998,
+     "cycle": "monthly",
+     "currency": "JPY"
+    },
+    {
+     "name": "プレミアム（1年契約・2年目以降）",
+     "amount": 9581,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-28"
   },
   {
    "id": "asken",
@@ -10804,6 +11052,54 @@
     {
      "name": "年会費",
      "amount": 2200,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-28"
+  },
+  {
+   "id": "smbc-platinum-preferred",
+   "name": "三井住友カード プラチナプリファード",
+   "category": "finance",
+   "aliases": [
+    "プラチナプリファード",
+    "プラプリ",
+    "三井住友 プラチナプリファード",
+    "三井住友プラチナプリファード",
+    "Olive プラチナプリファード",
+    "Oliveフレキシブルペイ プラチナプリファード"
+   ],
+   "url": "https://www.smbc-card.com/nyukai/platinum-preferred/index.jsp",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "年会費",
+     "amount": 33000,
+     "cycle": "yearly",
+     "currency": "JPY"
+    }
+   ],
+   "checkedAt": "2026-10-28"
+  },
+  {
+   "id": "epos-gold-card",
+   "name": "エポスゴールドカード",
+   "category": "finance",
+   "aliases": [
+    "エポスゴールド",
+    "EPOSゴールド",
+    "エポス ゴールド",
+    "エポスカード ゴールド",
+    "EPOS GOLD",
+    "エポスファミリーゴールド"
+   ],
+   "url": "https://www.eposcard.co.jp/goldcard/main.html",
+   "billingType": "fixed",
+   "plans": [
+    {
+     "name": "年会費",
+     "amount": 5000,
      "cycle": "yearly",
      "currency": "JPY"
     }
